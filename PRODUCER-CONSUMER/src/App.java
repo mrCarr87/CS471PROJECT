@@ -45,7 +45,7 @@ public class App {
                 }
                 float[] monthlyTotalSales = {0,0,0,0,0,0,0,0,0,0,0,0};
                 ArrayList<Float> stores = new ArrayList<>();
-                int storeID = rand.nextInt((producers + 1)- 1) + 1;
+                
                 
 
                 int m = 1;
@@ -60,7 +60,7 @@ public class App {
                 }
                 while(itemCount < itemLimit){
                     int counter = 0;
-                    
+                    int storeID = rand.nextInt((producers + 1)- 1) + 1;
                         while(counter != bufferSize){
                             SalesRecord newlyCreatedRecord = producerList[storeID - 1].creatSalesRecord();
                             System.out.println(counter);
@@ -70,7 +70,9 @@ public class App {
                             counter++;
                             
                             
+                            
                         }
+                        newThread.sleep(sleepTimer);
                         
                         while(counter != 0){
                             

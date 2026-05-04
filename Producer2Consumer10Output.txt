@@ -1,20 +1,20 @@
 Statistics for the Run
 
-Store 1 Total Sales: 501659.312500 
+Store 1 Total Sales: 244760.718750 
 
-Store 2 Total Sales: 0.000000 
+Store 2 Total Sales: 243238.250000 
 Monthly Total Sales: 
- January: 38034.578125 
- February: 41692.671875 
- March: 40353.867188 
- April: 41161.589844 
- May: 49080.101563 
- June: 43878.859375 
-July: 36740.125000 
- August: 39683.136719 
- September: 37191.964844 
- October: 54595.632813 
- November: 42724.144531 
- December: 36522.578125 
-Aggregate Sales: 501659.25 
-Total Simulation Time: 131 
+ January: 44983.347656 
+ February: 37213.726563 
+ March: 38481.222656 
+ April: 38022.859375 
+ May: 41991.964844 
+ June: 42786.070313 
+July: 36132.074219 
+ August: 53763.828125 
+ September: 39518.328125 
+ October: 34733.496094 
+ November: 40816.964844 
+ December: 39555.058594 
+Aggregate Sales: 487998.9 
+Total Simulation Time: 15802 
