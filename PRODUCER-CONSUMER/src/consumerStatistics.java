@@ -37,6 +37,9 @@ public class consumerStatistics {
     public SalesRecord getSalesRecord(){
         return saleRecord;
     }
+    public String getDate(){
+        return String.format("%s / %d / %d",saleRecord.getMM(),saleRecord.getDD(),saleRecord.getYY());
+    }
     /**
      * Updates Global Statistcs for Run
      * @param storeIncome
@@ -49,9 +52,11 @@ public class consumerStatistics {
         float currentStoreIncome = storeIncome.get(record.getStoreID() - 1) +record.saleAmount;
         storeIncome.set(record.getStoreID() - 1, currentStoreIncome);
         monthlyIncome[record.mM - 1] += record.saleAmount;
-        try(BufferedWriter bufferWriter = new BufferedWriter(new FileWriter(String.format(".../PRODUCER-CONSUMER/Producer%sConsumer%dOutput.txt",producers,consumers)))){
+        System.out.printf("Current Store Income: %s\n", currentStoreIncome);
+        System.out.printf("Current Monthly Income: %s\n", monthlyIncome[record.mM - 1]);
+        try(BufferedWriter bufferWriter = new BufferedWriter(new FileWriter(String.format("../Producer%dConsumer%dOutput.txt",producers, consumers)))){
             bufferWriter.write("\nStatistics for the Run\n");
-            bufferWriter.write(String.format("Date: %s/%d/%f \n",record.getMM(),record.getDD(),record.getYY()));
+            bufferWriter.write(String.format("Date: %s \n",getDate()));
             bufferWriter.write(String.format("Store ID: %s \n", record.getStoreID()));
             bufferWriter.write(String.format("Register Number: %s \n", record.getRegisterNumber()));
             bufferWriter.write(String.format("Sale Amount: %s \n", record.getSaleAmount()));

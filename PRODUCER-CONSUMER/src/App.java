@@ -8,27 +8,18 @@ import java.time.*;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
-
+import java.util.concurrent.*;
 
 
 public class App {
+    
     
     static int[] producerConsumerSetNumbers = {2,5,10};
     static Random rand = new Random();
     static int sleepTimer = rand.nextInt((40 + 1) - 5) + 5;
     
 
-    public static SalesRecord producerSales(int storeID){
-        int dD = rand.nextInt((31) - 1) + 1;
-        int mM = rand.nextInt((13) - 1) + 1;
-        int yY = 16;
-        int registerNumber = rand.nextInt(7 - 1) + 1;
-        double saleAmount = rand.nextDouble((999.99 + 1.0) - 0.50) + 0.50;
-        float saleAmountFloat = (float) saleAmount;
-        SalesRecord newSale = new SalesRecord(dD, mM, yY, registerNumber, storeID, saleAmountFloat);
-        return newSale;
-
-    }
+    
     
 
     /**
@@ -57,7 +48,7 @@ public class App {
                 int storeID = rand.nextInt((producers + 1)- 1) + 1;
                 
 
-                int m = 0;
+                int m = 1;
                 int empty = bufferSize;
                 int full = 0;
 
@@ -69,22 +60,28 @@ public class App {
                 }
                 while(itemCount < itemLimit){
                     int counter = 0;
-                    while(counter != bufferSize){
-                        SalesRecord newlyCreatedRecord = producerList[storeID - 1].creatSalesRecord();
+                    
+                        while(counter != bufferSize){
+                            SalesRecord newlyCreatedRecord = producerList[storeID - 1].creatSalesRecord();
+                            System.out.println(counter);
+                            
+                            buffer[in] = newlyCreatedRecord;
+                            in = (in + 1) % bufferSize;
+                            counter++;
+                            
+                        }
                         
-                        buffer[in] = newlyCreatedRecord;
-                        in = (in + 1) % bufferSize;
-                        counter++;
-                        pcThread.wait(sleepTimer);
-                    }
-                    while(counter != 0){
-                        consumerStatistics consumer = new consumerStatistics(buffer[out]);
-                        consumer.updateOverallStatistics(stores, monthlyTotalSales, producers, consumers);
-                        out = (out + 1) % bufferSize;
-                        counter--;
-                        itemCount++;
-                        pcThread.wait(sleepTimer);
-                    }
+                        while(counter != 0){
+                            
+                            System.out.println(counter);
+                            consumerStatistics consumer = new consumerStatistics(buffer[out]);
+                            
+                            consumer.updateOverallStatistics(stores, monthlyTotalSales,producers,consumers);
+                            out = (out + 1) % bufferSize;
+                            counter--;
+                            itemCount++;
+                            
+                        }     
 
                     
                 }
@@ -94,14 +91,14 @@ public class App {
                 for(int i = 0; i < monthlyTotalSales.length; i++){
                     totalAggregateSum += monthlyTotalSales[i];
                 }
-                try(BufferedWriter bufferWriter = new BufferedWriter(new FileWriter(String.format(".../PRODUCER-CONSUMER/Producer%sConsumer%dOutput.txt",producers,consumers)))){
+                try(BufferedWriter bufferWriter = new BufferedWriter(new FileWriter(String.format("../Producer%dConsumer%dOutput.txt",producers,consumers)))){
                     bufferWriter.write("Statistics for the Run\n");
                     for(int i = 0; i < stores.size(); i++){
-                        bufferWriter.write(String.format("\nStore %s Total Sales: %d \n", i + 1, stores.get(i)));
+                        bufferWriter.write(String.format("\nStore %s Total Sales: %f \n", i + 1, stores.get(i)));
                     }
-                    bufferWriter.write(String.format("Monthly Total Sales: \n January: %a \n February: %b \n March: %c \n April: %d \n May: %e \n June: %f \n", 
+                    bufferWriter.write(String.format("Monthly Total Sales: \n January: %f \n February: %f \n March: %f \n April: %f \n May: %f \n June: %f \n", 
                     monthlyTotalSales[0],monthlyTotalSales[1], monthlyTotalSales[2], monthlyTotalSales[3], monthlyTotalSales[4],monthlyTotalSales[5]));
-                    bufferWriter.write(String.format("July: %a \n August: %b \n September: %c \n October: %d \n November: %e \n December: %f \n", 
+                    bufferWriter.write(String.format("July: %f \n August: %f \n September: %f \n October: %f \n November: %f \n December: %f \n", 
                     monthlyTotalSales[6],monthlyTotalSales[7], monthlyTotalSales[8], monthlyTotalSales[9], monthlyTotalSales[10],monthlyTotalSales[11]));
                     bufferWriter.write(String.format("Aggregate Sales: %s \n", totalAggregateSum));
                     bufferWriter.write(String.format("Total Simulation Time: %s \n", duration));

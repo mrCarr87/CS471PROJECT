@@ -25,6 +25,12 @@ public class producerSales {
         double saleAmount = rand.nextDouble((999.99 + 1.0) - 0.50) + 0.50;
         float saleAmountFloat = (float) saleAmount;
         SalesRecord newSale = new SalesRecord(dD, mM, yY, registerNumber, storeID, saleAmountFloat);
+        System.out.printf("Day: %s\n", dD);
+        System.out.printf("Month: %s\n", mM);
+        System.out.printf("Year: %s\n", yY);   
+        System.out.printf("Register Number: %s\n", registerNumber);
+        System.out.printf("Store ID: %s\n", storeID);
+        System.out.printf("Sale Amount: %s\n", saleAmountFloat);
         return newSale;
     }
     public int[] createSalesArray(){
