@@ -83,7 +83,7 @@ public class cpuScheduler {
 
     private static void extractedAndPrintFCFSOutput(int simulatedTime, int averageWaitingTime, int throughput, double cpuUtilization,
             int averageTurnaroundTime, int averageResponseTime) {
-        try(BufferedWriter bufferWriter = new BufferedWriter(new FileWriter("../CPUSCHED/FCFS_Output.txt"))){
+        try(BufferedWriter bufferWriter = new BufferedWriter(new FileWriter("../CPUSCHED/FIFO_Output.txt"))){
             bufferWriter.write("Statistics for the Run\n");
             bufferWriter.write(String.format("Total Elapsed Time: %s Simulated Time\n", simulatedTime));
             bufferWriter.write(String.format("Throughput: %s\n", throughput));

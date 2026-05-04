@@ -39,13 +39,12 @@ public class consumerStatistics {
     }
     /**
      * Updates Global Statistcs for Run
-     * @param buffer
      * @param storeIncome
      * @param monthlyIncome
      * @param producers
      * @param consumers
      */
-    public void updateOverallStatistics(Buffer buffer, ArrayList<Float> storeIncome, float[] monthlyIncome, int producers, int consumers){
+    public void updateOverallStatistics(ArrayList<Float> storeIncome, float[] monthlyIncome, int producers, int consumers){
         SalesRecord record = getSalesRecord();
         float currentStoreIncome = storeIncome.get(record.getStoreID() - 1) +record.saleAmount;
         storeIncome.set(record.getStoreID() - 1, currentStoreIncome);

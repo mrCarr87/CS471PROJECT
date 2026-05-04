@@ -8,6 +8,7 @@ import java.time.*;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
+
 class newThread extends Thread{
     public void Run(){
         System.out.println("Thread is running!");
@@ -47,7 +48,7 @@ public class App {
                 newThread pcThread = new newThread();
                 pcThread.start();
                 int bufferSize = producers;
-                Buffer[] buffer = new Buffer[bufferSize];
+                SalesRecord[] buffer = new SalesRecord[bufferSize];
                 int itemLimit = 1000;
                 int itemCount = 0;
                 Instant startTime = Instant.now();
@@ -59,23 +60,35 @@ public class App {
                 ArrayList<Float> stores = new ArrayList<>();
                 int storeID = rand.nextInt((producers + 1)- 1) + 1;
                 
+                int in = 0;
+                int out = 0;
                 for(int i = 0; i < producers; i++){
                     stores.add((float) 0);
                 }
                 while(itemCount < itemLimit){
                     int counter = 0;
                     while(true){
-                        
+                        SalesRecord newlyCreatedRecord = producerList[storeID - 1].creatSalesRecord();
                         while(counter == bufferSize){
 
                         }
-
+                        buffer[in] = newlyCreatedRecord;
+                        in = (in + 1) % bufferSize;
                         counter++;
+                        pcThread.wait(sleepTimer);
                     }
-                    
-                    
 
-                    
+                    while(true){
+                        while(counter == 0){
+
+                        }
+                        SalesRecord nextRecord = buffer[out];
+                        out = (out + 1) % bufferSize;
+                        counter--;
+                        consumerStatistics consumer = new consumerStatistics(nextRecord);
+                        consumer.updateOverallStatistics(stores, monthlyTotalSales, producers, consumers);
+                        itemCount++;
+                    }
                 }
                 Instant endTime = Instant.now();
                 long duration = Duration.between(startTime, endTime).toMillis();
@@ -94,11 +107,17 @@ public class App {
                     monthlyTotalSales[6],monthlyTotalSales[7], monthlyTotalSales[8], monthlyTotalSales[9], monthlyTotalSales[10],monthlyTotalSales[11]));
                     bufferWriter.write(String.format("Aggregate Sales: %s \n", totalAggregateSum));
                     bufferWriter.write(String.format("Total Simulation Time: %s \n", duration));
-                    
+                        
                 }
                 catch(IOException e){
                     System.out.println("File not found!");
                 }
+                    
+                    
+
+                    
+            }
+                
                 
 
             }
@@ -107,5 +126,5 @@ public class App {
         }
         
         
-    }
 }
+
