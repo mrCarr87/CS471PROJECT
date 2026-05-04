@@ -60,6 +60,12 @@ public class App {
                 ArrayList<Float> stores = new ArrayList<>();
                 int storeID = rand.nextInt((producers + 1)- 1) + 1;
                 
+
+                int m = 0;
+                int empty = bufferSize;
+                int full = 0;
+
+
                 int in = 0;
                 int out = 0;
                 for(int i = 0; i < producers; i++){
@@ -67,28 +73,24 @@ public class App {
                 }
                 while(itemCount < itemLimit){
                     int counter = 0;
-                    while(true){
+                    while(counter != bufferSize){
                         SalesRecord newlyCreatedRecord = producerList[storeID - 1].creatSalesRecord();
-                        while(counter == bufferSize){
-
-                        }
+                        
                         buffer[in] = newlyCreatedRecord;
                         in = (in + 1) % bufferSize;
                         counter++;
                         pcThread.wait(sleepTimer);
                     }
-
-                    while(true){
-                        while(counter == 0){
-
-                        }
-                        SalesRecord nextRecord = buffer[out];
+                    while(counter != 0){
+                        consumerStatistics consumer = new consumerStatistics(buffer[out]);
+                        consumer.updateOverallStatistics(stores, monthlyTotalSales, producers, consumers);
                         out = (out + 1) % bufferSize;
                         counter--;
-                        consumerStatistics consumer = new consumerStatistics(nextRecord);
-                        consumer.updateOverallStatistics(stores, monthlyTotalSales, producers, consumers);
                         itemCount++;
+                        pcThread.wait(sleepTimer);
                     }
+
+                    
                 }
                 Instant endTime = Instant.now();
                 long duration = Duration.between(startTime, endTime).toMillis();

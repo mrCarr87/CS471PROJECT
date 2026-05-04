@@ -3,7 +3,7 @@ package src;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.nio.Buffer;
+
 import java.util.ArrayList;
 /**
  * Consumer class for statistics

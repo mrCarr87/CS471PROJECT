@@ -27,5 +27,15 @@ public class producerSales {
         SalesRecord newSale = new SalesRecord(dD, mM, yY, registerNumber, storeID, saleAmountFloat);
         return newSale;
     }
+    public int[] createSalesArray(){
+        int dD = rand.nextInt((31) - 1) + 1;
+        int mM = rand.nextInt((13) - 1) + 1;
+        int yY = 16;
+        int registerNumber = rand.nextInt(7 - 1) + 1;
+        double saleAmount = rand.nextDouble((999.99 + 1.0) - 0.50) + 0.50;
+        float saleAmountFloat = (float) saleAmount;
+        int[] salesArray = {dD, mM, yY, registerNumber, storeID, (int) saleAmountFloat};
+        return salesArray;
+    }
 
 }
