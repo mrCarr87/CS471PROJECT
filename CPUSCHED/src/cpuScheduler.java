@@ -95,8 +95,16 @@ public class cpuScheduler {
         return throughput;
     }
 
-    private static void SJF_Swap(){
-
+    private static void SJF_Swap(ArrayList<int[]> waitingProcesses){
+        for(int i = 0; i < waitingProcesses.size(); i++){
+            for(int j = 0; j < waitingProcesses.size(); j++){
+                if(waitingProcesses.get(i)[1] > waitingProcesses.get(j)[1]){
+                    int[] temporary = waitingProcesses.get(i);
+                    waitingProcesses.set(i,waitingProcesses.get(j));
+                    waitingProcesses.set(j, temporary);
+                }
+            }
+        }
     }
 
    
@@ -110,7 +118,7 @@ public class cpuScheduler {
         int numberOfProcesses = 0;
         
         ArrayList<int[]> currentProcesses = new ArrayList<>();
-        ArrayList<int[]> waitingProcesses = new ArrayList<>();
+        int[] waitingProcesses;
         int[] currentProcess = null;
         int[] waitingTimes = new int[500]; 
         int[] arrivalTimes = new int[500];

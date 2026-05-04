@@ -1,18 +1,8 @@
-## Getting Started
+#CPUSCHED
+In order to activate and execute this file, first change directories to CPUSCHED sections through 'cd CPUSCHED'.  Then, on the command line, type 'java src/cpuScheduler.java'.  This should activate the file in which you will get a prompt that says 'Select A Scheduling Style You Want to Simulate:  (FIFO/SJF)'.  Note that the commands must be in all caps.  
+## FCFS
+In order to activate this command, when the prompt appears, type 'FIFO' to choose this scheduler.  
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## SJF
+In order to activate this command, when the prompt appears, type 'SJF' to choose this scheduler.  
