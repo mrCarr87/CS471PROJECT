@@ -6,11 +6,11 @@ Store 2 Total Sales: 0.000000
 
 Store 3 Total Sales: 0.000000 
 
-Store 4 Total Sales: 0.000000 
+Store 4 Total Sales: 505906.062500 
 
 Store 5 Total Sales: 0.000000 
 
-Store 6 Total Sales: 506688.250000 
+Store 6 Total Sales: 0.000000 
 
 Store 7 Total Sales: 0.000000 
 
@@ -20,17 +20,17 @@ Store 9 Total Sales: 0.000000
 
 Store 10 Total Sales: 0.000000 
 Monthly Total Sales: 
- January: 41035.437500 
- February: 48713.312500 
- March: 47651.781250 
- April: 50607.730469 
- May: 44323.691406 
- June: 37764.640625 
-July: 42479.820313 
- August: 42862.050781 
- September: 37139.523438 
- October: 37626.582031 
- November: 37614.496094 
- December: 38869.273438 
-Aggregate Sales: 506688.38 
-Total Simulation Time: 131 
+ January: 48640.164063 
+ February: 40106.812500 
+ March: 37248.582031 
+ April: 44032.550781 
+ May: 44166.152344 
+ June: 35189.007813 
+July: 35490.144531 
+ August: 45807.394531 
+ September: 49193.179688 
+ October: 45705.097656 
+ November: 36873.582031 
+ December: 43453.289063 
+Aggregate Sales: 505906.0 
+Total Simulation Time: 109 
