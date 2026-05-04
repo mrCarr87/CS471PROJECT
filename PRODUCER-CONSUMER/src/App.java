@@ -18,7 +18,7 @@ public class App {
     
     static int[] producerConsumerSetNumbers = {2,5,10};
     static Random rand = new Random();
-    
+    static int sleepTimer = rand.nextInt((40 + 1) - 5) + 5;
     
 
     public static SalesRecord producerSales(int storeID){
@@ -32,23 +32,7 @@ public class App {
         return newSale;
 
     }
-    public static void consumerStatistics(SalesRecord record, Buffer buffer, ArrayList<Float> storeIncome, float[] monthlyIncome){
-
-        float currentStoreIncome = storeIncome.get(record.getStoreID() - 1) +record.saleAmount;
-        storeIncome.set(record.getStoreID() - 1, currentStoreIncome);
-        monthlyIncome[record.mM - 1] += record.saleAmount;
-        try(BufferedWriter bufferWriter = new BufferedWriter(new FileWriter("../CPUSCHED/SJF_Output.txt"))){
-            bufferWriter.write("\nStatistics for the Run\n");
-            bufferWriter.write(String.format("Date: %s/%d/%f \n",record.getMM(),record.getDD(),record.getYY()));
-            bufferWriter.write(String.format("Store ID: %s \n", record.getStoreID()));
-            bufferWriter.write(String.format("Register Number: %s \n", record.getRegisterNumber()));
-            bufferWriter.write(String.format("Sale Amount: %s \n", record.getSaleAmount()));
-            
-        }
-        catch(IOException e){
-            System.out.println("File not found!");
-        }
-    }
+    
 
 
     public static void main(String[] args) throws Exception {
@@ -63,17 +47,29 @@ public class App {
                 int itemLimit = 1000;
                 int itemCount = 0;
                 Instant startTime = Instant.now();
+                producerSales[] producerList = new producerSales[producers];
+                for(int i = 0; i < producers; i++){
+                    producerList[i] = new producerSales(i  + 1);
+                }
                 float[] monthlyTotalSales = {0,0,0,0,0,0,0,0,0,0,0,0};
                 ArrayList<Float> stores = new ArrayList<>();
                 int storeID = rand.nextInt((producers + 1)- 1) + 1;
-                int counter = 0;
+                
                 for(int i = 0; i < producers; i++){
                     stores.add((float) 0);
                 }
                 while(itemCount < itemLimit){
+                    int counter = 0;
                     while(true){
+                        SalesRecord newRecord = producerSales(storeID);
+                        while(counter == bufferSize){
 
+                        }
+
+                        counter++;
                     }
+                    
+                    
 
                     
                 }
@@ -83,7 +79,7 @@ public class App {
                 for(int i = 0; i < monthlyTotalSales.length; i++){
                     totalAggregateSum += monthlyTotalSales[i];
                 }
-                try(BufferedWriter bufferWriter = new BufferedWriter(new FileWriter("../CPUSCHED/SJF_Output.txt"))){
+                try(BufferedWriter bufferWriter = new BufferedWriter(new FileWriter(".../PRODUCER-CONSUMER/Producer_Consumer_Output.txt"))){
                     bufferWriter.write("Statistics for the Run\n");
                     for(int i = 0; i < stores.size(); i++){
                         bufferWriter.write(String.format("\nStore %s Total Sales: %d \n", i + 1, stores.get(i)));
