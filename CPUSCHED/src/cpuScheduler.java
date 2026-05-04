@@ -140,11 +140,11 @@ public class cpuScheduler {
         int[] turnaroundTimes = new int[500];
         int[] responseTimes = new int[500];
         while(numberOfProcesses < 500 && counter != data.size()){
-            if(((simulatedTime == data.get(counter)[0])) && (currentProcess == null)){
+            if(!(counter >= data.size() ) && ((simulatedTime == data.get(counter)[0])) && (currentProcess == null)){
                 currentProcess = data.get(counter);
                 
             }
-            else if(((simulatedTime >= data.get(counter)[0])) && (currentProcess != null)){
+            else if(!(counter >= data.size()) && ((simulatedTime >= data.get(counter)[0])) && (currentProcess != null)){
                 waitingProcesses.add(data.get(counter));
             }
             
@@ -158,6 +158,7 @@ public class cpuScheduler {
                 turnaroundTimes[counter] = burstTimes[counter] + waitingTimes[counter];
                 responseTimes[counter] = waitingTimes[counter] - arrivalTimes[counter];
                 simulatedTime += burstTimes[counter];
+                printCurrentOutput(counter, simulatedTime, numberOfProcesses, currentProcess, waitingTimes, arrivalTimes, burstTimes, turnaroundTimes, responseTimes);
                 numberOfProcesses += 1;
                 counter++;
                 currentProcess = null;

@@ -5,27 +5,52 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.nio.Buffer;
 import java.util.ArrayList;
-
+/**
+ * Consumer class for statistics
+ */
 public class consumerStatistics {
     SalesRecord saleRecord;
+    /**
+     * Basic Constructor with no inputted salesRecord
+     */
     public consumerStatistics(){
         this.saleRecord = null;
     }
+    /**
+     * Constructor with salesRecord set
+     * @param salesRecord
+     */
     public consumerStatistics(SalesRecord salesRecord){
         this.saleRecord = salesRecord;
     }
+    /**
+     * Sets sales record
+     * @param saleRecord
+     */
     public void setSalesRecord(SalesRecord saleRecord){
         this.saleRecord = saleRecord;
     }
+    /**
+     * Obtains sales record
+     * @return saleRecord
+     */
     public SalesRecord getSalesRecord(){
         return saleRecord;
     }
-    public void updateOverallStatistics(Buffer buffer, ArrayList<Float> storeIncome, float[] monthlyIncome){
+    /**
+     * Updates Global Statistcs for Run
+     * @param buffer
+     * @param storeIncome
+     * @param monthlyIncome
+     * @param producers
+     * @param consumers
+     */
+    public void updateOverallStatistics(Buffer buffer, ArrayList<Float> storeIncome, float[] monthlyIncome, int producers, int consumers){
         SalesRecord record = getSalesRecord();
         float currentStoreIncome = storeIncome.get(record.getStoreID() - 1) +record.saleAmount;
         storeIncome.set(record.getStoreID() - 1, currentStoreIncome);
         monthlyIncome[record.mM - 1] += record.saleAmount;
-        try(BufferedWriter bufferWriter = new BufferedWriter(new FileWriter("../PRODUCER-CONSUMER/Producer_Consumer_Output.txt"))){
+        try(BufferedWriter bufferWriter = new BufferedWriter(new FileWriter(String.format(".../PRODUCER-CONSUMER/Producer%sConsumer%dOutput.txt",producers,consumers)))){
             bufferWriter.write("\nStatistics for the Run\n");
             bufferWriter.write(String.format("Date: %s/%d/%f \n",record.getMM(),record.getDD(),record.getYY()));
             bufferWriter.write(String.format("Store ID: %s \n", record.getStoreID()));

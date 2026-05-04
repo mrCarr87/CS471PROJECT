@@ -34,7 +34,11 @@ public class App {
     }
     
 
-
+    /**
+     * Primary function to execute program
+     * @param args
+     * @throws Exception
+     */
     public static void main(String[] args) throws Exception {
         
         for(int producers: producerConsumerSetNumbers){
@@ -61,7 +65,7 @@ public class App {
                 while(itemCount < itemLimit){
                     int counter = 0;
                     while(true){
-                        SalesRecord newRecord = producerSales(storeID);
+                        
                         while(counter == bufferSize){
 
                         }
@@ -79,7 +83,7 @@ public class App {
                 for(int i = 0; i < monthlyTotalSales.length; i++){
                     totalAggregateSum += monthlyTotalSales[i];
                 }
-                try(BufferedWriter bufferWriter = new BufferedWriter(new FileWriter(".../PRODUCER-CONSUMER/Producer_Consumer_Output.txt"))){
+                try(BufferedWriter bufferWriter = new BufferedWriter(new FileWriter(String.format(".../PRODUCER-CONSUMER/Producer%sConsumer%dOutput.txt",producers,consumers)))){
                     bufferWriter.write("Statistics for the Run\n");
                     for(int i = 0; i < stores.size(); i++){
                         bufferWriter.write(String.format("\nStore %s Total Sales: %d \n", i + 1, stores.get(i)));
