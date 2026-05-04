@@ -35,15 +35,8 @@ public class cpuScheduler {
                 waitingTimes[counter] = simulatedTime;
                 turnaroundTimes[counter] = burstTimes[counter] + waitingTimes[counter];
                 responseTimes[counter] = waitingTimes[counter] - arrivalTimes[counter];
-                System.out.printf("Counter: %s\n",counter);
-                System.out.printf("Simulated Time: %s\n",simulatedTime);
-                System.out.printf("Current Burst Time Sum: %s\n",Arrays.stream(burstTimes).sum());
-                System.out.printf("Number of Processes: %s \n",numberOfProcesses);
-                System.out.printf("Current Process: %s\n",currentProcess);
-                System.out.printf("Arrival Time: %s\n", arrivalTimes[counter]);
-                System.out.printf("Waiting Time: %s\n",waitingTimes[counter]);
-                System.out.printf("Turnaround Time: %s\n",turnaroundTimes[counter]);
-                System.out.printf("Response Time: %s\n",responseTimes[counter]);
+                printCurrentOutput(counter, simulatedTime, numberOfProcesses, currentProcess, waitingTimes, arrivalTimes,
+                        burstTimes, turnaroundTimes, responseTimes);
                 simulatedTime += burstTimes[counter];
                 numberOfProcesses += 1;
                 currentProcess = null;
@@ -68,6 +61,28 @@ public class cpuScheduler {
         double cpuUtilization = (double)((totalBurstTime / simulatedTime) * 100);
         int averageTurnaroundTime = getAverageTime(numberOfProcesses, turnaroundTimes);
         int averageResponseTime = getAverageTime(numberOfProcesses, responseTimes);
+        extractedAndPrintFCFSOutput(simulatedTime, averageWaitingTime, throughput, cpuUtilization, averageTurnaroundTime,
+                averageResponseTime);
+        
+    }
+
+
+    private static void printCurrentOutput(int counter, int simulatedTime, int numberOfProcesses, int[] currentProcess,
+            int[] waitingTimes, int[] arrivalTimes, int[] burstTimes, int[] turnaroundTimes, int[] responseTimes) {
+        System.out.printf("Counter: %s\n",counter);
+        System.out.printf("Simulated Time: %s\n",simulatedTime);
+        System.out.printf("Current Burst Time Sum: %s\n",Arrays.stream(burstTimes).sum());
+        System.out.printf("Number of Processes: %s \n",numberOfProcesses);
+        System.out.printf("Current Process: %s\n",currentProcess);
+        System.out.printf("Arrival Time: %s\n", arrivalTimes[counter]);
+        System.out.printf("Waiting Time: %s\n",waitingTimes[counter]);
+        System.out.printf("Turnaround Time: %s\n",turnaroundTimes[counter]);
+        System.out.printf("Response Time: %s\n",responseTimes[counter]);
+    }
+
+
+    private static void extractedAndPrintFCFSOutput(int simulatedTime, int averageWaitingTime, int throughput, double cpuUtilization,
+            int averageTurnaroundTime, int averageResponseTime) {
         try(BufferedWriter bufferWriter = new BufferedWriter(new FileWriter("../CPUSCHED/FCFS_Output.txt"))){
             bufferWriter.write("Statistics for the Run\n");
             bufferWriter.write(String.format("Total Elapsed Time: %s Simulated Time\n", simulatedTime));
@@ -81,7 +96,6 @@ public class cpuScheduler {
         catch(IOException e){
             System.out.println("File not found!");
         }
-        
     }
 
 
@@ -117,8 +131,8 @@ public class cpuScheduler {
         int simulatedTime = 0;
         int numberOfProcesses = 0;
         
-        ArrayList<int[]> currentProcesses = new ArrayList<>();
-        int[] waitingProcesses;
+        
+        ArrayList<int[]> waitingProcesses = new ArrayList<>();
         int[] currentProcess = null;
         int[] waitingTimes = new int[500]; 
         int[] arrivalTimes = new int[500];
@@ -126,25 +140,42 @@ public class cpuScheduler {
         int[] turnaroundTimes = new int[500];
         int[] responseTimes = new int[500];
         while(numberOfProcesses < 500 && counter != data.size()){
-            if(simulatedTime == data.get(counter)[0]){
+            if(((simulatedTime == data.get(counter)[0])) && (currentProcess == null)){
                 currentProcess = data.get(counter);
-                currentProcesses.add(currentProcess);
-                if(currentProcesses.size() == 1){
-                    
-                }
-                else{
-                    for(int i = 0; i < currentProcesses.size(); i++){
-                        for(int j = 0; j< currentProcesses.size(); j++){
-                            System.out.println("null");
-                        }
-                    }
-                }
                 
-                counter += 1;
-
             }
+            else if(((simulatedTime >= data.get(counter)[0])) && (currentProcess != null)){
+                waitingProcesses.add(data.get(counter));
+            }
+            
             else{
                 simulatedTime += 1;
+            }
+            if(currentProcess != null){
+                arrivalTimes[counter] = currentProcess[0];
+                waitingTimes[counter] = simulatedTime;
+                burstTimes[counter] = currentProcess[1];
+                turnaroundTimes[counter] = burstTimes[counter] + waitingTimes[counter];
+                responseTimes[counter] = waitingTimes[counter] - arrivalTimes[counter];
+                simulatedTime += burstTimes[counter];
+                numberOfProcesses += 1;
+                counter++;
+                currentProcess = null;
+                
+                if(waitingProcesses.size() > 0){
+                    if(waitingProcesses.size() > 1){
+                        SJF_Swap(waitingProcesses);
+                        currentProcess = waitingProcesses.get(0);
+                        waitingProcesses.remove(0);
+                    }
+                    else{
+                        currentProcess = waitingProcesses.get(0);
+                        waitingProcesses.remove(0);
+                    }
+                }
+                else{
+                    continue;
+                }
             }
             if(numberOfProcesses == 500){
                 break;
@@ -159,6 +190,14 @@ public class cpuScheduler {
         double cpuUtilization = (double)((totalBurstTime / simulatedTime) * 100);
         int averageTurnaroundTime = getAverageTime(numberOfProcesses, turnaroundTimes);
         int averageResponseTime = getAverageTime(numberOfProcesses, responseTimes);
+        extractAndPrintSJFTextOutput(simulatedTime, averageWaitingTime, throughput, cpuUtilization, averageTurnaroundTime,
+                averageResponseTime);
+
+    }
+
+
+    private static void extractAndPrintSJFTextOutput(int simulatedTime, int averageWaitingTime, int throughput, double cpuUtilization,
+            int averageTurnaroundTime, int averageResponseTime) {
         try(BufferedWriter bufferWriter = new BufferedWriter(new FileWriter("../CPUSCHED/SJF_Output.txt"))){
             bufferWriter.write("Statistics for the Run\n");
             bufferWriter.write(String.format("Total Elapsed Time: %s Simulated Time\n", simulatedTime));
@@ -172,7 +211,6 @@ public class cpuScheduler {
         catch(IOException e){
             System.out.println("File not found!");
         }
-
     }
     
     public static void main(String[] args) throws Exception {
