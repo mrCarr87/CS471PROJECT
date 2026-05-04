@@ -9,11 +9,7 @@ import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 
-class newThread extends Thread{
-    public void Run(){
-        System.out.println("Thread is running!");
-    }
-}
+
 
 public class App {
     
