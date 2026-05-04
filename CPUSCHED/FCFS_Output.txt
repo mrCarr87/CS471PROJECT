@@ -1,0 +1,7 @@
+Statistics for the Run
+Total Elapsed Time: 14744 Simulated Time
+Throughput: 21
+CPU Utilization: 0.0 Percent
+Average Waiting Time: 7465 Simulated Time
+Average Turnaround Time: 7486 Simulated Time
+Average Response Time: 17 Simulated Time
