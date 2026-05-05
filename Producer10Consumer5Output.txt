@@ -1,42 +1,42 @@
 
 Statistics for the Run
-Date: 8 / 4 / 16 
-Store ID: 8 
-Register Number: 1 
-Sale Amount: 561.5298 
+Date: 1 / 26 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 809.2624 
 Statistics for the Run
 
-Store 1 Total Sales: 15510.059570 
+Store 1 Total Sales: 46545.140625 
 
-Store 2 Total Sales: 56081.410156 
+Store 2 Total Sales: 59812.269531 
 
-Store 3 Total Sales: 17261.240234 
+Store 3 Total Sales: 57883.140625 
 
-Store 4 Total Sales: 51316.539063 
+Store 4 Total Sales: 35209.058594 
 
-Store 5 Total Sales: 27817.029297 
+Store 5 Total Sales: 24229.509766 
 
-Store 6 Total Sales: 75623.843750 
+Store 6 Total Sales: 68873.039063 
 
-Store 7 Total Sales: 72128.218750 
+Store 7 Total Sales: 57088.179688 
 
-Store 8 Total Sales: 61111.710938 
+Store 8 Total Sales: 62944.828125 
 
-Store 9 Total Sales: 69151.421875 
+Store 9 Total Sales: 60821.660156 
 
-Store 10 Total Sales: 40066.929688 
+Store 10 Total Sales: 46632.601563 
 Monthly Total Sales: 
- January: 32662.707031 
- February: 41279.960938 
- March: 36238.281250 
- April: 35454.816406 
- May: 38016.617188 
- June: 42462.492188 
-July: 35597.585938 
- August: 43191.042969 
- September: 54709.242188 
- October: 39674.167969 
- November: 41895.199219 
- December: 44886.351563 
-Aggregate Sales: 486068.44 
-Total Simulation Time: 2601 Milliseconds
+ January: 36909.246094 
+ February: 45767.722656 
+ March: 37186.593750 
+ April: 45667.003906 
+ May: 41323.386719 
+ June: 39889.101563 
+July: 41114.441406 
+ August: 52812.941406 
+ September: 42779.078125 
+ October: 44595.210938 
+ November: 47180.503906 
+ December: 44814.246094 
+Aggregate Sales: 520039.47 
+Total Simulation Time: 2560 Milliseconds
