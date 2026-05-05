@@ -1,0 +1,6020 @@
+
+Statistics for the Run
+Date: 2 / 7 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 648.95496 
+
+Statistics for the Run
+Date: 9 / 23 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 987.0362 
+
+Statistics for the Run
+Date: 4 / 21 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 766.25616 
+
+Statistics for the Run
+Date: 11 / 26 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 312.09222 
+
+Statistics for the Run
+Date: 7 / 21 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 259.10452 
+
+Statistics for the Run
+Date: 2 / 15 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 280.3487 
+
+Statistics for the Run
+Date: 7 / 23 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 799.475 
+
+Statistics for the Run
+Date: 10 / 18 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 863.4428 
+
+Statistics for the Run
+Date: 11 / 20 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 86.13719 
+
+Statistics for the Run
+Date: 12 / 6 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 831.8138 
+
+Statistics for the Run
+Date: 3 / 9 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 693.0464 
+
+Statistics for the Run
+Date: 6 / 19 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 976.0821 
+
+Statistics for the Run
+Date: 8 / 23 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 973.565 
+
+Statistics for the Run
+Date: 2 / 10 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 641.0088 
+
+Statistics for the Run
+Date: 3 / 5 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 89.1246 
+
+Statistics for the Run
+Date: 4 / 9 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 764.0182 
+
+Statistics for the Run
+Date: 5 / 2 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 386.24457 
+
+Statistics for the Run
+Date: 4 / 4 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 442.82397 
+
+Statistics for the Run
+Date: 6 / 1 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 624.676 
+
+Statistics for the Run
+Date: 10 / 14 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 420.8529 
+
+Statistics for the Run
+Date: 9 / 6 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 866.4273 
+
+Statistics for the Run
+Date: 10 / 28 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 945.10144 
+
+Statistics for the Run
+Date: 9 / 29 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 125.60145 
+
+Statistics for the Run
+Date: 7 / 20 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 211.96547 
+
+Statistics for the Run
+Date: 6 / 18 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 651.87506 
+
+Statistics for the Run
+Date: 5 / 23 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 180.66101 
+
+Statistics for the Run
+Date: 1 / 26 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 475.8574 
+
+Statistics for the Run
+Date: 1 / 2 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 243.2973 
+
+Statistics for the Run
+Date: 6 / 17 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 730.4097 
+
+Statistics for the Run
+Date: 2 / 22 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 689.3153 
+
+Statistics for the Run
+Date: 1 / 8 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 476.90097 
+
+Statistics for the Run
+Date: 6 / 8 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 829.86975 
+
+Statistics for the Run
+Date: 6 / 17 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 723.5462 
+
+Statistics for the Run
+Date: 9 / 25 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 586.8624 
+
+Statistics for the Run
+Date: 3 / 30 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 591.2369 
+
+Statistics for the Run
+Date: 11 / 2 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 478.91327 
+
+Statistics for the Run
+Date: 11 / 23 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 466.73605 
+
+Statistics for the Run
+Date: 11 / 12 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 648.0935 
+
+Statistics for the Run
+Date: 9 / 12 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 852.83704 
+
+Statistics for the Run
+Date: 3 / 26 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 719.57495 
+
+Statistics for the Run
+Date: 12 / 14 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 957.35834 
+
+Statistics for the Run
+Date: 12 / 16 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 811.2277 
+
+Statistics for the Run
+Date: 8 / 13 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 223.59142 
+
+Statistics for the Run
+Date: 9 / 25 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 481.87384 
+
+Statistics for the Run
+Date: 3 / 11 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 288.89008 
+
+Statistics for the Run
+Date: 5 / 9 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 558.5074 
+
+Statistics for the Run
+Date: 8 / 15 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 353.22842 
+
+Statistics for the Run
+Date: 12 / 13 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 56.42159 
+
+Statistics for the Run
+Date: 3 / 23 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 499.09225 
+
+Statistics for the Run
+Date: 11 / 24 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 813.2094 
+
+Statistics for the Run
+Date: 5 / 12 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 69.952736 
+
+Statistics for the Run
+Date: 12 / 21 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 923.1863 
+
+Statistics for the Run
+Date: 5 / 21 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 506.80917 
+
+Statistics for the Run
+Date: 8 / 28 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 167.54 
+
+Statistics for the Run
+Date: 2 / 11 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 818.54895 
+
+Statistics for the Run
+Date: 12 / 22 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 850.09106 
+
+Statistics for the Run
+Date: 8 / 30 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 95.82836 
+
+Statistics for the Run
+Date: 9 / 11 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 663.12494 
+
+Statistics for the Run
+Date: 5 / 12 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 170.20468 
+
+Statistics for the Run
+Date: 4 / 26 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 754.0388 
+
+Statistics for the Run
+Date: 5 / 24 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 611.7004 
+
+Statistics for the Run
+Date: 8 / 2 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 922.2774 
+
+Statistics for the Run
+Date: 10 / 2 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 240.02376 
+
+Statistics for the Run
+Date: 8 / 26 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 381.29065 
+
+Statistics for the Run
+Date: 12 / 12 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 623.2662 
+
+Statistics for the Run
+Date: 6 / 24 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 181.77483 
+
+Statistics for the Run
+Date: 11 / 15 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 606.1535 
+
+Statistics for the Run
+Date: 1 / 11 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 227.82909 
+
+Statistics for the Run
+Date: 10 / 14 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 739.6497 
+
+Statistics for the Run
+Date: 1 / 27 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 559.4562 
+
+Statistics for the Run
+Date: 8 / 9 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 655.0077 
+
+Statistics for the Run
+Date: 2 / 2 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 717.91644 
+
+Statistics for the Run
+Date: 12 / 6 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 580.3841 
+
+Statistics for the Run
+Date: 12 / 17 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 24.329296 
+
+Statistics for the Run
+Date: 8 / 6 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 389.7996 
+
+Statistics for the Run
+Date: 5 / 3 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 914.6674 
+
+Statistics for the Run
+Date: 6 / 19 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 895.1441 
+
+Statistics for the Run
+Date: 9 / 11 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 601.8136 
+
+Statistics for the Run
+Date: 11 / 25 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 673.7496 
+
+Statistics for the Run
+Date: 6 / 30 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 579.5396 
+
+Statistics for the Run
+Date: 5 / 22 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 878.14325 
+
+Statistics for the Run
+Date: 6 / 3 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 973.74615 
+
+Statistics for the Run
+Date: 5 / 13 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 468.2912 
+
+Statistics for the Run
+Date: 7 / 10 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 599.3617 
+
+Statistics for the Run
+Date: 11 / 16 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 646.5144 
+
+Statistics for the Run
+Date: 10 / 16 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 224.92125 
+
+Statistics for the Run
+Date: 8 / 26 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 13.587315 
+
+Statistics for the Run
+Date: 12 / 13 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 945.5659 
+
+Statistics for the Run
+Date: 7 / 5 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 212.91766 
+
+Statistics for the Run
+Date: 1 / 18 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 678.8048 
+
+Statistics for the Run
+Date: 6 / 30 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 592.3295 
+
+Statistics for the Run
+Date: 6 / 23 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 28.12571 
+
+Statistics for the Run
+Date: 10 / 22 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 455.29507 
+
+Statistics for the Run
+Date: 2 / 21 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 996.23346 
+
+Statistics for the Run
+Date: 1 / 25 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 798.5094 
+
+Statistics for the Run
+Date: 1 / 1 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 478.8368 
+
+Statistics for the Run
+Date: 7 / 2 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 12.389392 
+
+Statistics for the Run
+Date: 3 / 4 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 355.7792 
+
+Statistics for the Run
+Date: 12 / 14 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 680.63556 
+
+Statistics for the Run
+Date: 3 / 19 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 250.65817 
+
+Statistics for the Run
+Date: 8 / 24 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 563.7512 
+
+Statistics for the Run
+Date: 2 / 1 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 134.59023 
+
+Statistics for the Run
+Date: 4 / 19 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 615.2666 
+
+Statistics for the Run
+Date: 5 / 14 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 104.02923 
+
+Statistics for the Run
+Date: 4 / 17 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 436.7411 
+
+Statistics for the Run
+Date: 3 / 3 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 820.8294 
+
+Statistics for the Run
+Date: 9 / 13 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 767.4615 
+
+Statistics for the Run
+Date: 12 / 18 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 17.597546 
+
+Statistics for the Run
+Date: 10 / 27 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 278.89685 
+
+Statistics for the Run
+Date: 1 / 9 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 752.6352 
+
+Statistics for the Run
+Date: 8 / 11 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 749.36194 
+
+Statistics for the Run
+Date: 11 / 15 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 485.91873 
+
+Statistics for the Run
+Date: 8 / 13 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 626.2796 
+
+Statistics for the Run
+Date: 9 / 28 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 388.73322 
+
+Statistics for the Run
+Date: 10 / 4 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 626.2685 
+
+Statistics for the Run
+Date: 11 / 26 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 536.12225 
+
+Statistics for the Run
+Date: 11 / 12 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 184.69983 
+
+Statistics for the Run
+Date: 1 / 12 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 33.23628 
+
+Statistics for the Run
+Date: 12 / 6 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 66.28928 
+
+Statistics for the Run
+Date: 10 / 20 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 722.8804 
+
+Statistics for the Run
+Date: 9 / 10 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 802.832 
+
+Statistics for the Run
+Date: 2 / 17 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 762.4079 
+
+Statistics for the Run
+Date: 12 / 8 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 485.27438 
+
+Statistics for the Run
+Date: 10 / 24 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 809.5267 
+
+Statistics for the Run
+Date: 7 / 15 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 407.18677 
+
+Statistics for the Run
+Date: 4 / 17 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 908.37964 
+
+Statistics for the Run
+Date: 11 / 2 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 871.767 
+
+Statistics for the Run
+Date: 5 / 16 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 539.632 
+
+Statistics for the Run
+Date: 5 / 18 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 415.90402 
+
+Statistics for the Run
+Date: 1 / 18 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 5.6819973 
+
+Statistics for the Run
+Date: 7 / 17 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 191.41762 
+
+Statistics for the Run
+Date: 1 / 7 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 662.1477 
+
+Statistics for the Run
+Date: 3 / 3 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 475.16272 
+
+Statistics for the Run
+Date: 7 / 26 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 661.7438 
+
+Statistics for the Run
+Date: 4 / 13 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 609.4503 
+
+Statistics for the Run
+Date: 8 / 29 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 481.0382 
+
+Statistics for the Run
+Date: 9 / 20 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 835.3621 
+
+Statistics for the Run
+Date: 8 / 10 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 299.4714 
+
+Statistics for the Run
+Date: 8 / 1 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 961.90985 
+
+Statistics for the Run
+Date: 9 / 13 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 83.115906 
+
+Statistics for the Run
+Date: 10 / 16 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 737.18866 
+
+Statistics for the Run
+Date: 12 / 15 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 795.7656 
+
+Statistics for the Run
+Date: 10 / 9 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 676.7379 
+
+Statistics for the Run
+Date: 7 / 1 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 169.99428 
+
+Statistics for the Run
+Date: 12 / 20 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 983.2466 
+
+Statistics for the Run
+Date: 7 / 19 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 660.19385 
+
+Statistics for the Run
+Date: 2 / 14 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 546.0208 
+
+Statistics for the Run
+Date: 4 / 10 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 234.05795 
+
+Statistics for the Run
+Date: 8 / 3 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 314.75336 
+
+Statistics for the Run
+Date: 11 / 20 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 337.14316 
+
+Statistics for the Run
+Date: 3 / 15 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 357.73697 
+
+Statistics for the Run
+Date: 12 / 11 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 485.15997 
+
+Statistics for the Run
+Date: 9 / 30 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 929.1295 
+
+Statistics for the Run
+Date: 7 / 11 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 898.5972 
+
+Statistics for the Run
+Date: 12 / 18 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 658.0534 
+
+Statistics for the Run
+Date: 4 / 23 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 75.63061 
+
+Statistics for the Run
+Date: 11 / 9 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 751.7486 
+
+Statistics for the Run
+Date: 6 / 5 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 207.69339 
+
+Statistics for the Run
+Date: 8 / 21 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 55.814907 
+
+Statistics for the Run
+Date: 4 / 10 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 750.2353 
+
+Statistics for the Run
+Date: 5 / 25 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 541.86005 
+
+Statistics for the Run
+Date: 12 / 23 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 88.18051 
+
+Statistics for the Run
+Date: 1 / 20 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 207.88786 
+
+Statistics for the Run
+Date: 1 / 14 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 733.3169 
+
+Statistics for the Run
+Date: 8 / 15 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 782.8403 
+
+Statistics for the Run
+Date: 6 / 4 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 233.6934 
+
+Statistics for the Run
+Date: 10 / 3 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 119.49946 
+
+Statistics for the Run
+Date: 9 / 13 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 44.056995 
+
+Statistics for the Run
+Date: 11 / 10 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 108.7359 
+
+Statistics for the Run
+Date: 12 / 26 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 715.71497 
+
+Statistics for the Run
+Date: 8 / 20 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 524.2379 
+
+Statistics for the Run
+Date: 3 / 9 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 898.2454 
+
+Statistics for the Run
+Date: 12 / 27 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 191.22336 
+
+Statistics for the Run
+Date: 6 / 4 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 17.09151 
+
+Statistics for the Run
+Date: 6 / 30 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 69.7021 
+
+Statistics for the Run
+Date: 6 / 28 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 800.16583 
+
+Statistics for the Run
+Date: 2 / 8 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 328.79767 
+
+Statistics for the Run
+Date: 10 / 18 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 142.18723 
+
+Statistics for the Run
+Date: 11 / 23 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 536.7007 
+
+Statistics for the Run
+Date: 9 / 7 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 752.74194 
+
+Statistics for the Run
+Date: 11 / 10 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 557.2105 
+
+Statistics for the Run
+Date: 4 / 23 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 928.54663 
+
+Statistics for the Run
+Date: 3 / 28 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 322.4456 
+
+Statistics for the Run
+Date: 9 / 5 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 361.68994 
+
+Statistics for the Run
+Date: 4 / 7 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 592.1635 
+
+Statistics for the Run
+Date: 7 / 17 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 894.2611 
+
+Statistics for the Run
+Date: 10 / 10 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 689.6228 
+
+Statistics for the Run
+Date: 10 / 24 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 278.777 
+
+Statistics for the Run
+Date: 2 / 5 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 604.3591 
+
+Statistics for the Run
+Date: 6 / 11 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 535.52734 
+
+Statistics for the Run
+Date: 4 / 1 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 987.9908 
+
+Statistics for the Run
+Date: 1 / 11 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 174.18044 
+
+Statistics for the Run
+Date: 10 / 29 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 350.1909 
+
+Statistics for the Run
+Date: 2 / 3 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 834.3754 
+
+Statistics for the Run
+Date: 4 / 28 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 214.71822 
+
+Statistics for the Run
+Date: 8 / 26 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 20.222216 
+
+Statistics for the Run
+Date: 2 / 2 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 619.7475 
+
+Statistics for the Run
+Date: 2 / 13 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 769.68207 
+
+Statistics for the Run
+Date: 4 / 15 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 42.883266 
+
+Statistics for the Run
+Date: 8 / 27 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 81.83202 
+
+Statistics for the Run
+Date: 10 / 20 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 105.89601 
+
+Statistics for the Run
+Date: 4 / 16 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 998.1949 
+
+Statistics for the Run
+Date: 3 / 29 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 762.21497 
+
+Statistics for the Run
+Date: 8 / 11 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 183.2568 
+
+Statistics for the Run
+Date: 11 / 13 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 152.16196 
+
+Statistics for the Run
+Date: 3 / 28 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 521.21875 
+
+Statistics for the Run
+Date: 9 / 18 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 622.2697 
+
+Statistics for the Run
+Date: 9 / 12 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 204.5658 
+
+Statistics for the Run
+Date: 12 / 20 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 372.30362 
+
+Statistics for the Run
+Date: 9 / 7 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 201.34473 
+
+Statistics for the Run
+Date: 3 / 19 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 768.34784 
+
+Statistics for the Run
+Date: 10 / 19 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 181.60947 
+
+Statistics for the Run
+Date: 9 / 22 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 559.49805 
+
+Statistics for the Run
+Date: 2 / 26 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 272.05765 
+
+Statistics for the Run
+Date: 6 / 15 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 478.53998 
+
+Statistics for the Run
+Date: 1 / 24 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 73.12784 
+
+Statistics for the Run
+Date: 11 / 18 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 183.16585 
+
+Statistics for the Run
+Date: 9 / 14 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 741.0391 
+
+Statistics for the Run
+Date: 2 / 27 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 883.7324 
+
+Statistics for the Run
+Date: 12 / 30 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 881.3516 
+
+Statistics for the Run
+Date: 10 / 24 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 628.4759 
+
+Statistics for the Run
+Date: 12 / 20 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 815.72186 
+
+Statistics for the Run
+Date: 12 / 16 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 404.31827 
+
+Statistics for the Run
+Date: 4 / 18 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 585.1819 
+
+Statistics for the Run
+Date: 11 / 2 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 132.41663 
+
+Statistics for the Run
+Date: 12 / 2 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 967.00385 
+
+Statistics for the Run
+Date: 8 / 4 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 726.7092 
+
+Statistics for the Run
+Date: 2 / 13 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 505.75693 
+
+Statistics for the Run
+Date: 9 / 14 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 754.3608 
+
+Statistics for the Run
+Date: 11 / 13 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 472.37442 
+
+Statistics for the Run
+Date: 12 / 28 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 145.45879 
+
+Statistics for the Run
+Date: 11 / 24 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 285.41013 
+
+Statistics for the Run
+Date: 2 / 18 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 395.28482 
+
+Statistics for the Run
+Date: 10 / 29 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 257.69974 
+
+Statistics for the Run
+Date: 4 / 10 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 272.27618 
+
+Statistics for the Run
+Date: 11 / 3 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 495.71106 
+
+Statistics for the Run
+Date: 5 / 8 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 30.202534 
+
+Statistics for the Run
+Date: 12 / 26 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 118.22242 
+
+Statistics for the Run
+Date: 8 / 2 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 170.79431 
+
+Statistics for the Run
+Date: 12 / 14 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 837.249 
+
+Statistics for the Run
+Date: 9 / 3 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 919.8666 
+
+Statistics for the Run
+Date: 2 / 5 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 198.33646 
+
+Statistics for the Run
+Date: 12 / 18 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 173.16702 
+
+Statistics for the Run
+Date: 12 / 19 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 148.01385 
+
+Statistics for the Run
+Date: 1 / 29 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 347.40204 
+
+Statistics for the Run
+Date: 5 / 29 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 106.625656 
+
+Statistics for the Run
+Date: 3 / 10 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 875.7705 
+
+Statistics for the Run
+Date: 12 / 29 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 540.213 
+
+Statistics for the Run
+Date: 6 / 8 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 343.90918 
+
+Statistics for the Run
+Date: 11 / 6 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 252.41176 
+
+Statistics for the Run
+Date: 9 / 30 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 405.63428 
+
+Statistics for the Run
+Date: 2 / 30 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 185.03995 
+
+Statistics for the Run
+Date: 3 / 30 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 382.41492 
+
+Statistics for the Run
+Date: 12 / 10 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 883.35913 
+
+Statistics for the Run
+Date: 10 / 12 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 541.8776 
+
+Statistics for the Run
+Date: 6 / 5 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 40.525665 
+
+Statistics for the Run
+Date: 2 / 14 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 861.303 
+
+Statistics for the Run
+Date: 1 / 24 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 652.64996 
+
+Statistics for the Run
+Date: 5 / 1 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 606.66876 
+
+Statistics for the Run
+Date: 3 / 25 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 705.15356 
+
+Statistics for the Run
+Date: 4 / 22 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 372.35233 
+
+Statistics for the Run
+Date: 4 / 23 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 699.3064 
+
+Statistics for the Run
+Date: 5 / 6 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 688.54456 
+
+Statistics for the Run
+Date: 8 / 29 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 10.090543 
+
+Statistics for the Run
+Date: 8 / 16 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 383.3472 
+
+Statistics for the Run
+Date: 9 / 26 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 380.09314 
+
+Statistics for the Run
+Date: 3 / 19 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 138.64537 
+
+Statistics for the Run
+Date: 12 / 7 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 629.96936 
+
+Statistics for the Run
+Date: 11 / 29 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 597.08154 
+
+Statistics for the Run
+Date: 3 / 9 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 333.56326 
+
+Statistics for the Run
+Date: 9 / 7 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 350.08356 
+
+Statistics for the Run
+Date: 1 / 14 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 555.2808 
+
+Statistics for the Run
+Date: 5 / 4 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 281.73038 
+
+Statistics for the Run
+Date: 5 / 14 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 766.7388 
+
+Statistics for the Run
+Date: 6 / 24 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 774.7529 
+
+Statistics for the Run
+Date: 4 / 12 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 984.2837 
+
+Statistics for the Run
+Date: 4 / 23 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 849.56104 
+
+Statistics for the Run
+Date: 9 / 5 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 15.65676 
+
+Statistics for the Run
+Date: 8 / 12 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 0.8827898 
+
+Statistics for the Run
+Date: 12 / 2 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 705.69135 
+
+Statistics for the Run
+Date: 8 / 15 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 684.42816 
+
+Statistics for the Run
+Date: 3 / 13 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 322.76086 
+
+Statistics for the Run
+Date: 11 / 23 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 678.182 
+
+Statistics for the Run
+Date: 10 / 9 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 498.64087 
+
+Statistics for the Run
+Date: 3 / 24 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 433.26904 
+
+Statistics for the Run
+Date: 6 / 19 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 782.52325 
+
+Statistics for the Run
+Date: 11 / 24 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 847.55286 
+
+Statistics for the Run
+Date: 6 / 30 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 255.53394 
+
+Statistics for the Run
+Date: 9 / 2 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 955.49457 
+
+Statistics for the Run
+Date: 12 / 17 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 631.9791 
+
+Statistics for the Run
+Date: 1 / 5 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 354.74905 
+
+Statistics for the Run
+Date: 11 / 27 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 99.75732 
+
+Statistics for the Run
+Date: 5 / 17 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 281.9275 
+
+Statistics for the Run
+Date: 3 / 11 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 165.54933 
+
+Statistics for the Run
+Date: 5 / 5 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 721.0476 
+
+Statistics for the Run
+Date: 10 / 12 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 606.8753 
+
+Statistics for the Run
+Date: 10 / 14 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 185.83617 
+
+Statistics for the Run
+Date: 10 / 1 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 435.26038 
+
+Statistics for the Run
+Date: 4 / 7 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 495.57953 
+
+Statistics for the Run
+Date: 12 / 23 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 247.52284 
+
+Statistics for the Run
+Date: 1 / 14 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 556.88837 
+
+Statistics for the Run
+Date: 12 / 14 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 913.3476 
+
+Statistics for the Run
+Date: 11 / 30 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 919.9402 
+
+Statistics for the Run
+Date: 5 / 10 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 207.39282 
+
+Statistics for the Run
+Date: 8 / 13 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 432.57812 
+
+Statistics for the Run
+Date: 1 / 16 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 744.52594 
+
+Statistics for the Run
+Date: 1 / 22 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 827.86914 
+
+Statistics for the Run
+Date: 1 / 20 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 803.4502 
+
+Statistics for the Run
+Date: 12 / 25 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 182.96251 
+
+Statistics for the Run
+Date: 1 / 22 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 477.3003 
+
+Statistics for the Run
+Date: 6 / 11 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 36.419563 
+
+Statistics for the Run
+Date: 11 / 4 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 968.46136 
+
+Statistics for the Run
+Date: 1 / 2 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 15.088849 
+
+Statistics for the Run
+Date: 9 / 13 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 184.20607 
+
+Statistics for the Run
+Date: 12 / 6 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 879.9685 
+
+Statistics for the Run
+Date: 1 / 15 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 252.4607 
+
+Statistics for the Run
+Date: 9 / 20 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 719.82355 
+
+Statistics for the Run
+Date: 7 / 27 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 233.24548 
+
+Statistics for the Run
+Date: 1 / 6 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 784.9587 
+
+Statistics for the Run
+Date: 5 / 2 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 949.11914 
+
+Statistics for the Run
+Date: 2 / 28 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 220.05994 
+
+Statistics for the Run
+Date: 9 / 21 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 650.65784 
+
+Statistics for the Run
+Date: 1 / 14 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 594.6969 
+
+Statistics for the Run
+Date: 10 / 2 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 481.9772 
+
+Statistics for the Run
+Date: 2 / 7 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 994.9199 
+
+Statistics for the Run
+Date: 5 / 7 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 960.42633 
+
+Statistics for the Run
+Date: 12 / 11 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 350.5271 
+
+Statistics for the Run
+Date: 9 / 27 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 910.48206 
+
+Statistics for the Run
+Date: 6 / 3 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 89.37239 
+
+Statistics for the Run
+Date: 1 / 11 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 765.95764 
+
+Statistics for the Run
+Date: 12 / 29 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 217.0996 
+
+Statistics for the Run
+Date: 8 / 8 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 946.4036 
+
+Statistics for the Run
+Date: 12 / 2 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 46.14661 
+
+Statistics for the Run
+Date: 4 / 30 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 761.08795 
+
+Statistics for the Run
+Date: 9 / 25 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 404.5278 
+
+Statistics for the Run
+Date: 11 / 9 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 623.29364 
+
+Statistics for the Run
+Date: 12 / 21 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 15.222876 
+
+Statistics for the Run
+Date: 6 / 19 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 10.432474 
+
+Statistics for the Run
+Date: 3 / 24 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 855.7305 
+
+Statistics for the Run
+Date: 12 / 19 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 951.1831 
+
+Statistics for the Run
+Date: 3 / 11 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 739.3404 
+
+Statistics for the Run
+Date: 10 / 10 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 732.6226 
+
+Statistics for the Run
+Date: 9 / 7 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 966.4561 
+
+Statistics for the Run
+Date: 12 / 22 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 422.05133 
+
+Statistics for the Run
+Date: 12 / 25 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 428.50214 
+
+Statistics for the Run
+Date: 5 / 22 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 660.75574 
+
+Statistics for the Run
+Date: 5 / 11 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 909.3183 
+
+Statistics for the Run
+Date: 10 / 26 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 196.95961 
+
+Statistics for the Run
+Date: 10 / 29 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 305.09998 
+
+Statistics for the Run
+Date: 9 / 13 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 176.23074 
+
+Statistics for the Run
+Date: 6 / 22 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 558.5122 
+
+Statistics for the Run
+Date: 9 / 9 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 966.397 
+
+Statistics for the Run
+Date: 8 / 11 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 353.6833 
+
+Statistics for the Run
+Date: 8 / 22 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 499.73444 
+
+Statistics for the Run
+Date: 2 / 8 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 107.32999 
+
+Statistics for the Run
+Date: 11 / 30 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 217.97311 
+
+Statistics for the Run
+Date: 2 / 26 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 205.38875 
+
+Statistics for the Run
+Date: 4 / 17 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 993.7079 
+
+Statistics for the Run
+Date: 7 / 12 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 780.9773 
+
+Statistics for the Run
+Date: 7 / 24 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 437.39865 
+
+Statistics for the Run
+Date: 3 / 5 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 204.12233 
+
+Statistics for the Run
+Date: 12 / 11 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 20.337513 
+
+Statistics for the Run
+Date: 1 / 8 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 199.90312 
+
+Statistics for the Run
+Date: 4 / 21 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 68.17056 
+
+Statistics for the Run
+Date: 5 / 22 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 498.10025 
+
+Statistics for the Run
+Date: 1 / 14 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 167.27797 
+
+Statistics for the Run
+Date: 7 / 3 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 720.89264 
+
+Statistics for the Run
+Date: 5 / 29 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 13.746638 
+
+Statistics for the Run
+Date: 2 / 11 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 83.05825 
+
+Statistics for the Run
+Date: 6 / 2 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 571.5651 
+
+Statistics for the Run
+Date: 9 / 24 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 753.7844 
+
+Statistics for the Run
+Date: 7 / 12 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 468.72134 
+
+Statistics for the Run
+Date: 8 / 1 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 952.8113 
+
+Statistics for the Run
+Date: 11 / 27 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 698.4973 
+
+Statistics for the Run
+Date: 11 / 21 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 490.91766 
+
+Statistics for the Run
+Date: 12 / 8 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 295.59265 
+
+Statistics for the Run
+Date: 9 / 6 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 74.56881 
+
+Statistics for the Run
+Date: 5 / 8 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 470.7112 
+
+Statistics for the Run
+Date: 9 / 29 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 116.429596 
+
+Statistics for the Run
+Date: 6 / 2 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 216.41315 
+
+Statistics for the Run
+Date: 6 / 21 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 933.9869 
+
+Statistics for the Run
+Date: 3 / 19 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 626.504 
+
+Statistics for the Run
+Date: 3 / 27 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 177.56445 
+
+Statistics for the Run
+Date: 3 / 12 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 975.0522 
+
+Statistics for the Run
+Date: 2 / 30 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 4.441621 
+
+Statistics for the Run
+Date: 3 / 10 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 879.46094 
+
+Statistics for the Run
+Date: 7 / 30 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 328.52057 
+
+Statistics for the Run
+Date: 9 / 16 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 182.66861 
+
+Statistics for the Run
+Date: 12 / 2 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 250.9241 
+
+Statistics for the Run
+Date: 9 / 11 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 138.43512 
+
+Statistics for the Run
+Date: 1 / 26 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 746.5309 
+
+Statistics for the Run
+Date: 12 / 7 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 952.5993 
+
+Statistics for the Run
+Date: 5 / 11 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 64.64698 
+
+Statistics for the Run
+Date: 11 / 18 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 312.4611 
+
+Statistics for the Run
+Date: 12 / 5 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 601.745 
+
+Statistics for the Run
+Date: 10 / 26 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 254.08304 
+
+Statistics for the Run
+Date: 11 / 2 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 862.9393 
+
+Statistics for the Run
+Date: 2 / 3 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 793.82135 
+
+Statistics for the Run
+Date: 11 / 17 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 506.5918 
+
+Statistics for the Run
+Date: 9 / 27 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 120.933044 
+
+Statistics for the Run
+Date: 8 / 23 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 91.05863 
+
+Statistics for the Run
+Date: 10 / 29 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 360.82983 
+
+Statistics for the Run
+Date: 11 / 25 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 533.03876 
+
+Statistics for the Run
+Date: 3 / 18 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 352.09464 
+
+Statistics for the Run
+Date: 11 / 1 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 337.29178 
+
+Statistics for the Run
+Date: 2 / 18 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 527.13904 
+
+Statistics for the Run
+Date: 8 / 5 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 595.84094 
+
+Statistics for the Run
+Date: 9 / 24 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 558.3232 
+
+Statistics for the Run
+Date: 7 / 5 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 660.61456 
+
+Statistics for the Run
+Date: 4 / 15 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 693.94293 
+
+Statistics for the Run
+Date: 2 / 2 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 831.83014 
+
+Statistics for the Run
+Date: 10 / 21 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 978.7265 
+
+Statistics for the Run
+Date: 11 / 4 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 700.53534 
+
+Statistics for the Run
+Date: 10 / 2 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 852.2616 
+
+Statistics for the Run
+Date: 12 / 11 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 143.62926 
+
+Statistics for the Run
+Date: 5 / 4 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 655.2878 
+
+Statistics for the Run
+Date: 5 / 17 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 348.15137 
+
+Statistics for the Run
+Date: 11 / 17 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 839.72064 
+
+Statistics for the Run
+Date: 6 / 18 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 923.71924 
+
+Statistics for the Run
+Date: 3 / 15 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 590.5202 
+
+Statistics for the Run
+Date: 12 / 20 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 38.649532 
+
+Statistics for the Run
+Date: 7 / 6 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 279.95575 
+
+Statistics for the Run
+Date: 12 / 25 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 279.8254 
+
+Statistics for the Run
+Date: 3 / 29 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 74.642944 
+
+Statistics for the Run
+Date: 4 / 24 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 218.93315 
+
+Statistics for the Run
+Date: 7 / 14 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 521.1217 
+
+Statistics for the Run
+Date: 12 / 27 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 371.04208 
+
+Statistics for the Run
+Date: 5 / 7 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 173.1967 
+
+Statistics for the Run
+Date: 5 / 18 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 482.7586 
+
+Statistics for the Run
+Date: 7 / 30 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 483.55588 
+
+Statistics for the Run
+Date: 3 / 28 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 868.2634 
+
+Statistics for the Run
+Date: 10 / 14 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 490.37015 
+
+Statistics for the Run
+Date: 1 / 14 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 178.81168 
+
+Statistics for the Run
+Date: 2 / 18 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 877.3878 
+
+Statistics for the Run
+Date: 10 / 24 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 489.90002 
+
+Statistics for the Run
+Date: 10 / 2 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 665.0709 
+
+Statistics for the Run
+Date: 1 / 6 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 856.33575 
+
+Statistics for the Run
+Date: 1 / 14 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 401.78656 
+
+Statistics for the Run
+Date: 5 / 15 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 222.17741 
+
+Statistics for the Run
+Date: 3 / 15 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 201.5062 
+
+Statistics for the Run
+Date: 2 / 28 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 703.5977 
+
+Statistics for the Run
+Date: 12 / 7 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 932.01465 
+
+Statistics for the Run
+Date: 10 / 20 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 52.23845 
+
+Statistics for the Run
+Date: 6 / 29 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 65.43335 
+
+Statistics for the Run
+Date: 4 / 10 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 58.286354 
+
+Statistics for the Run
+Date: 6 / 26 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 527.7734 
+
+Statistics for the Run
+Date: 4 / 14 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 106.2013 
+
+Statistics for the Run
+Date: 3 / 9 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 665.96747 
+
+Statistics for the Run
+Date: 7 / 14 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 534.0224 
+
+Statistics for the Run
+Date: 12 / 6 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 874.84064 
+
+Statistics for the Run
+Date: 11 / 26 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 831.69745 
+
+Statistics for the Run
+Date: 3 / 8 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 798.60126 
+
+Statistics for the Run
+Date: 3 / 18 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 12.925442 
+
+Statistics for the Run
+Date: 2 / 30 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 131.19576 
+
+Statistics for the Run
+Date: 12 / 12 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 89.10762 
+
+Statistics for the Run
+Date: 5 / 25 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 715.2348 
+
+Statistics for the Run
+Date: 11 / 2 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 462.3353 
+
+Statistics for the Run
+Date: 4 / 18 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 822.06616 
+
+Statistics for the Run
+Date: 4 / 20 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 104.39891 
+
+Statistics for the Run
+Date: 1 / 4 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 955.5277 
+
+Statistics for the Run
+Date: 9 / 1 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 577.0808 
+
+Statistics for the Run
+Date: 5 / 21 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 445.51846 
+
+Statistics for the Run
+Date: 1 / 6 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 633.43994 
+
+Statistics for the Run
+Date: 1 / 16 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 621.9692 
+
+Statistics for the Run
+Date: 9 / 15 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 98.70689 
+
+Statistics for the Run
+Date: 8 / 11 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 933.1573 
+
+Statistics for the Run
+Date: 11 / 29 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 610.9375 
+
+Statistics for the Run
+Date: 6 / 22 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 129.04308 
+
+Statistics for the Run
+Date: 6 / 22 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 927.1214 
+
+Statistics for the Run
+Date: 12 / 2 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 287.45078 
+
+Statistics for the Run
+Date: 8 / 22 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 318.5735 
+
+Statistics for the Run
+Date: 12 / 28 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 886.59924 
+
+Statistics for the Run
+Date: 9 / 20 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 326.14108 
+
+Statistics for the Run
+Date: 6 / 23 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 425.32654 
+
+Statistics for the Run
+Date: 6 / 1 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 695.2881 
+
+Statistics for the Run
+Date: 1 / 9 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 685.6081 
+
+Statistics for the Run
+Date: 9 / 10 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 14.821822 
+
+Statistics for the Run
+Date: 3 / 29 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 406.26443 
+
+Statistics for the Run
+Date: 7 / 8 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 375.74295 
+
+Statistics for the Run
+Date: 5 / 21 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 665.98486 
+
+Statistics for the Run
+Date: 4 / 9 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 657.3445 
+
+Statistics for the Run
+Date: 2 / 6 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 563.5162 
+
+Statistics for the Run
+Date: 3 / 4 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 726.2889 
+
+Statistics for the Run
+Date: 5 / 15 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 934.50146 
+
+Statistics for the Run
+Date: 2 / 9 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 591.9455 
+
+Statistics for the Run
+Date: 11 / 16 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 453.99512 
+
+Statistics for the Run
+Date: 2 / 4 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 98.721855 
+
+Statistics for the Run
+Date: 2 / 30 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 763.88367 
+
+Statistics for the Run
+Date: 12 / 9 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 386.43445 
+
+Statistics for the Run
+Date: 11 / 11 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 702.6294 
+
+Statistics for the Run
+Date: 9 / 4 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 974.6886 
+
+Statistics for the Run
+Date: 9 / 27 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 274.39185 
+
+Statistics for the Run
+Date: 1 / 26 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 788.53284 
+
+Statistics for the Run
+Date: 4 / 21 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 389.83035 
+
+Statistics for the Run
+Date: 3 / 21 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 85.61147 
+
+Statistics for the Run
+Date: 10 / 22 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 344.82248 
+
+Statistics for the Run
+Date: 7 / 18 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 845.1566 
+
+Statistics for the Run
+Date: 10 / 11 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 332.53183 
+
+Statistics for the Run
+Date: 2 / 20 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 947.3676 
+
+Statistics for the Run
+Date: 11 / 30 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 33.10794 
+
+Statistics for the Run
+Date: 4 / 7 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 40.551495 
+
+Statistics for the Run
+Date: 2 / 4 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 801.0081 
+
+Statistics for the Run
+Date: 3 / 27 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 425.3488 
+
+Statistics for the Run
+Date: 11 / 1 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 64.16923 
+
+Statistics for the Run
+Date: 7 / 7 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 819.50995 
+
+Statistics for the Run
+Date: 8 / 23 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 99.59554 
+
+Statistics for the Run
+Date: 11 / 18 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 746.4422 
+
+Statistics for the Run
+Date: 3 / 26 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 258.56793 
+
+Statistics for the Run
+Date: 8 / 7 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 746.18365 
+
+Statistics for the Run
+Date: 11 / 20 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 671.6414 
+
+Statistics for the Run
+Date: 4 / 7 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 459.1338 
+
+Statistics for the Run
+Date: 6 / 22 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 497.64725 
+
+Statistics for the Run
+Date: 9 / 9 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 104.92025 
+
+Statistics for the Run
+Date: 11 / 29 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 310.94116 
+
+Statistics for the Run
+Date: 4 / 20 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 586.2283 
+
+Statistics for the Run
+Date: 7 / 3 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 60.710064 
+
+Statistics for the Run
+Date: 4 / 6 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 422.3696 
+
+Statistics for the Run
+Date: 5 / 21 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 162.55365 
+
+Statistics for the Run
+Date: 1 / 11 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 443.59464 
+
+Statistics for the Run
+Date: 3 / 17 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 83.842094 
+
+Statistics for the Run
+Date: 5 / 30 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 869.996 
+
+Statistics for the Run
+Date: 10 / 28 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 337.04037 
+
+Statistics for the Run
+Date: 4 / 13 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 880.4287 
+
+Statistics for the Run
+Date: 6 / 30 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 625.1297 
+
+Statistics for the Run
+Date: 8 / 22 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 421.46906 
+
+Statistics for the Run
+Date: 10 / 29 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 52.848507 
+
+Statistics for the Run
+Date: 7 / 1 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 936.85986 
+
+Statistics for the Run
+Date: 10 / 16 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 728.40784 
+
+Statistics for the Run
+Date: 6 / 4 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 846.5555 
+
+Statistics for the Run
+Date: 3 / 14 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 228.14996 
+
+Statistics for the Run
+Date: 11 / 19 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 45.86289 
+
+Statistics for the Run
+Date: 7 / 25 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 788.2077 
+
+Statistics for the Run
+Date: 7 / 3 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 520.16815 
+
+Statistics for the Run
+Date: 9 / 16 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 212.05052 
+
+Statistics for the Run
+Date: 5 / 8 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 661.29205 
+
+Statistics for the Run
+Date: 1 / 16 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 972.4041 
+
+Statistics for the Run
+Date: 10 / 23 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 452.3829 
+
+Statistics for the Run
+Date: 12 / 29 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 215.02222 
+
+Statistics for the Run
+Date: 4 / 12 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 487.17685 
+
+Statistics for the Run
+Date: 3 / 17 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 477.9017 
+
+Statistics for the Run
+Date: 12 / 26 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 683.2935 
+
+Statistics for the Run
+Date: 2 / 8 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 260.1075 
+
+Statistics for the Run
+Date: 1 / 17 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 958.36896 
+
+Statistics for the Run
+Date: 8 / 17 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 650.4983 
+
+Statistics for the Run
+Date: 9 / 25 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 836.864 
+
+Statistics for the Run
+Date: 8 / 20 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 777.4695 
+
+Statistics for the Run
+Date: 5 / 17 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 76.330475 
+
+Statistics for the Run
+Date: 4 / 29 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 959.38306 
+
+Statistics for the Run
+Date: 11 / 2 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 105.60296 
+
+Statistics for the Run
+Date: 4 / 24 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 991.4251 
+
+Statistics for the Run
+Date: 7 / 10 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 482.9989 
+
+Statistics for the Run
+Date: 11 / 27 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 530.6192 
+
+Statistics for the Run
+Date: 3 / 16 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 613.0392 
+
+Statistics for the Run
+Date: 5 / 5 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 956.71875 
+
+Statistics for the Run
+Date: 12 / 21 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 585.31635 
+
+Statistics for the Run
+Date: 7 / 23 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 350.01282 
+
+Statistics for the Run
+Date: 12 / 29 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 662.0759 
+
+Statistics for the Run
+Date: 3 / 22 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 479.47552 
+
+Statistics for the Run
+Date: 4 / 12 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 478.73492 
+
+Statistics for the Run
+Date: 11 / 14 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 991.2423 
+
+Statistics for the Run
+Date: 9 / 13 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 968.09906 
+
+Statistics for the Run
+Date: 12 / 22 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 367.78452 
+
+Statistics for the Run
+Date: 11 / 6 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 350.13553 
+
+Statistics for the Run
+Date: 1 / 14 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 664.004 
+
+Statistics for the Run
+Date: 4 / 25 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 1.4373717 
+
+Statistics for the Run
+Date: 3 / 15 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 998.2011 
+
+Statistics for the Run
+Date: 2 / 24 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 932.4226 
+
+Statistics for the Run
+Date: 7 / 28 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 370.48795 
+
+Statistics for the Run
+Date: 7 / 3 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 973.3836 
+
+Statistics for the Run
+Date: 9 / 29 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 722.4487 
+
+Statistics for the Run
+Date: 1 / 14 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 735.9043 
+
+Statistics for the Run
+Date: 2 / 21 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 545.77594 
+
+Statistics for the Run
+Date: 3 / 12 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 605.8238 
+
+Statistics for the Run
+Date: 10 / 21 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 857.1341 
+
+Statistics for the Run
+Date: 7 / 19 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 917.71936 
+
+Statistics for the Run
+Date: 4 / 19 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 881.9471 
+
+Statistics for the Run
+Date: 4 / 27 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 728.3751 
+
+Statistics for the Run
+Date: 8 / 25 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 815.65985 
+
+Statistics for the Run
+Date: 6 / 4 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 374.31903 
+
+Statistics for the Run
+Date: 8 / 4 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 625.5891 
+
+Statistics for the Run
+Date: 3 / 12 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 977.86334 
+
+Statistics for the Run
+Date: 2 / 14 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 368.55548 
+
+Statistics for the Run
+Date: 8 / 11 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 22.717432 
+
+Statistics for the Run
+Date: 4 / 21 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 604.4505 
+
+Statistics for the Run
+Date: 10 / 7 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 188.43584 
+
+Statistics for the Run
+Date: 5 / 13 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 942.70245 
+
+Statistics for the Run
+Date: 10 / 12 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 521.1602 
+
+Statistics for the Run
+Date: 11 / 15 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 346.15924 
+
+Statistics for the Run
+Date: 9 / 30 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 426.67212 
+
+Statistics for the Run
+Date: 12 / 5 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 688.14374 
+
+Statistics for the Run
+Date: 4 / 16 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 741.41113 
+
+Statistics for the Run
+Date: 3 / 16 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 600.28467 
+
+Statistics for the Run
+Date: 5 / 28 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 862.7723 
+
+Statistics for the Run
+Date: 10 / 23 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 91.671844 
+
+Statistics for the Run
+Date: 7 / 10 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 217.02185 
+
+Statistics for the Run
+Date: 10 / 1 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 159.21344 
+
+Statistics for the Run
+Date: 4 / 9 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 514.3773 
+
+Statistics for the Run
+Date: 11 / 10 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 377.6557 
+
+Statistics for the Run
+Date: 12 / 26 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 241.53262 
+
+Statistics for the Run
+Date: 7 / 1 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 19.896334 
+
+Statistics for the Run
+Date: 5 / 7 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 24.005167 
+
+Statistics for the Run
+Date: 2 / 1 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 177.12924 
+
+Statistics for the Run
+Date: 7 / 2 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 645.0122 
+
+Statistics for the Run
+Date: 1 / 9 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 235.41518 
+
+Statistics for the Run
+Date: 3 / 2 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 269.70624 
+
+Statistics for the Run
+Date: 9 / 19 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 304.99268 
+
+Statistics for the Run
+Date: 10 / 1 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 146.9081 
+
+Statistics for the Run
+Date: 5 / 28 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 529.9127 
+
+Statistics for the Run
+Date: 2 / 7 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 40.222267 
+
+Statistics for the Run
+Date: 10 / 18 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 71.79549 
+
+Statistics for the Run
+Date: 5 / 4 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 51.413536 
+
+Statistics for the Run
+Date: 4 / 3 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 252.77219 
+
+Statistics for the Run
+Date: 1 / 30 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 338.82755 
+
+Statistics for the Run
+Date: 9 / 11 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 126.3256 
+
+Statistics for the Run
+Date: 4 / 7 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 896.7243 
+
+Statistics for the Run
+Date: 2 / 11 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 795.6124 
+
+Statistics for the Run
+Date: 2 / 30 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 99.86334 
+
+Statistics for the Run
+Date: 9 / 4 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 765.016 
+
+Statistics for the Run
+Date: 8 / 7 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 675.3721 
+
+Statistics for the Run
+Date: 10 / 28 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 419.3956 
+
+Statistics for the Run
+Date: 7 / 18 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 688.4794 
+
+Statistics for the Run
+Date: 8 / 23 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 75.87185 
+
+Statistics for the Run
+Date: 4 / 25 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 132.80034 
+
+Statistics for the Run
+Date: 10 / 16 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 551.1885 
+
+Statistics for the Run
+Date: 11 / 11 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 487.48233 
+
+Statistics for the Run
+Date: 12 / 21 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 720.6198 
+
+Statistics for the Run
+Date: 1 / 9 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 703.24493 
+
+Statistics for the Run
+Date: 12 / 6 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 609.945 
+
+Statistics for the Run
+Date: 8 / 23 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 644.58466 
+
+Statistics for the Run
+Date: 11 / 17 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 89.49651 
+
+Statistics for the Run
+Date: 6 / 30 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 284.88376 
+
+Statistics for the Run
+Date: 6 / 6 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 947.82385 
+
+Statistics for the Run
+Date: 4 / 25 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 280.9275 
+
+Statistics for the Run
+Date: 9 / 5 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 509.4821 
+
+Statistics for the Run
+Date: 5 / 21 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 604.0595 
+
+Statistics for the Run
+Date: 7 / 18 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 340.603 
+
+Statistics for the Run
+Date: 4 / 20 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 431.21884 
+
+Statistics for the Run
+Date: 8 / 25 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 117.711075 
+
+Statistics for the Run
+Date: 11 / 19 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 561.15967 
+
+Statistics for the Run
+Date: 3 / 5 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 181.86676 
+
+Statistics for the Run
+Date: 11 / 3 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 465.77487 
+
+Statistics for the Run
+Date: 11 / 24 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 466.93958 
+
+Statistics for the Run
+Date: 2 / 14 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 911.30615 
+
+Statistics for the Run
+Date: 10 / 17 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 495.9461 
+
+Statistics for the Run
+Date: 3 / 1 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 145.90294 
+
+Statistics for the Run
+Date: 6 / 6 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 368.3133 
+
+Statistics for the Run
+Date: 1 / 26 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 775.74066 
+
+Statistics for the Run
+Date: 6 / 29 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 212.93387 
+
+Statistics for the Run
+Date: 5 / 6 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 473.66568 
+
+Statistics for the Run
+Date: 1 / 30 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 8.410588 
+
+Statistics for the Run
+Date: 9 / 29 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 987.6868 
+
+Statistics for the Run
+Date: 3 / 20 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 2.6436539 
+
+Statistics for the Run
+Date: 1 / 12 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 919.48175 
+
+Statistics for the Run
+Date: 5 / 10 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 794.96844 
+
+Statistics for the Run
+Date: 4 / 17 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 512.27277 
+
+Statistics for the Run
+Date: 2 / 15 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 202.19281 
+
+Statistics for the Run
+Date: 4 / 24 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 78.08567 
+
+Statistics for the Run
+Date: 3 / 11 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 571.3552 
+
+Statistics for the Run
+Date: 4 / 3 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 858.4842 
+
+Statistics for the Run
+Date: 8 / 13 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 52.596867 
+
+Statistics for the Run
+Date: 8 / 16 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 497.68954 
+
+Statistics for the Run
+Date: 10 / 9 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 982.13025 
+
+Statistics for the Run
+Date: 4 / 3 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 565.7088 
+
+Statistics for the Run
+Date: 12 / 16 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 419.42023 
+
+Statistics for the Run
+Date: 5 / 22 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 647.7664 
+
+Statistics for the Run
+Date: 9 / 27 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 860.4841 
+
+Statistics for the Run
+Date: 9 / 26 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 636.06067 
+
+Statistics for the Run
+Date: 9 / 1 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 790.1362 
+
+Statistics for the Run
+Date: 3 / 26 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 421.79065 
+
+Statistics for the Run
+Date: 11 / 18 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 963.45184 
+
+Statistics for the Run
+Date: 4 / 27 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 11.444957 
+
+Statistics for the Run
+Date: 9 / 6 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 928.07886 
+
+Statistics for the Run
+Date: 4 / 26 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 686.9297 
+
+Statistics for the Run
+Date: 5 / 23 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 68.51202 
+
+Statistics for the Run
+Date: 4 / 13 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 360.96912 
+
+Statistics for the Run
+Date: 8 / 27 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 191.79138 
+
+Statistics for the Run
+Date: 6 / 29 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 91.51765 
+
+Statistics for the Run
+Date: 5 / 9 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 318.71252 
+
+Statistics for the Run
+Date: 6 / 18 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 633.67804 
+
+Statistics for the Run
+Date: 5 / 24 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 182.26613 
+
+Statistics for the Run
+Date: 3 / 7 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 316.56085 
+
+Statistics for the Run
+Date: 3 / 5 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 96.30954 
+
+Statistics for the Run
+Date: 5 / 4 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 511.01764 
+
+Statistics for the Run
+Date: 11 / 20 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 116.54585 
+
+Statistics for the Run
+Date: 9 / 15 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 741.87354 
+
+Statistics for the Run
+Date: 4 / 15 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 387.15274 
+
+Statistics for the Run
+Date: 10 / 11 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 187.93538 
+
+Statistics for the Run
+Date: 7 / 14 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 282.93735 
+
+Statistics for the Run
+Date: 11 / 1 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 605.187 
+
+Statistics for the Run
+Date: 11 / 30 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 777.8705 
+
+Statistics for the Run
+Date: 9 / 15 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 532.45776 
+
+Statistics for the Run
+Date: 3 / 12 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 224.51128 
+
+Statistics for the Run
+Date: 6 / 14 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 229.12701 
+
+Statistics for the Run
+Date: 11 / 25 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 276.5877 
+
+Statistics for the Run
+Date: 3 / 4 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 698.2542 
+
+Statistics for the Run
+Date: 6 / 8 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 840.25244 
+
+Statistics for the Run
+Date: 1 / 1 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 828.6819 
+
+Statistics for the Run
+Date: 9 / 8 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 15.515743 
+
+Statistics for the Run
+Date: 5 / 12 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 706.2832 
+
+Statistics for the Run
+Date: 2 / 7 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 643.40173 
+
+Statistics for the Run
+Date: 12 / 24 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 938.46344 
+
+Statistics for the Run
+Date: 8 / 11 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 404.44403 
+
+Statistics for the Run
+Date: 8 / 29 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 424.50516 
+
+Statistics for the Run
+Date: 9 / 21 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 249.20338 
+
+Statistics for the Run
+Date: 6 / 17 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 34.67609 
+
+Statistics for the Run
+Date: 3 / 13 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 679.49756 
+
+Statistics for the Run
+Date: 1 / 9 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 976.81213 
+
+Statistics for the Run
+Date: 11 / 4 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 717.73236 
+
+Statistics for the Run
+Date: 10 / 4 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 729.7241 
+
+Statistics for the Run
+Date: 9 / 21 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 389.86212 
+
+Statistics for the Run
+Date: 1 / 10 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 618.0163 
+
+Statistics for the Run
+Date: 2 / 12 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 468.91183 
+
+Statistics for the Run
+Date: 2 / 13 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 967.50635 
+
+Statistics for the Run
+Date: 7 / 4 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 893.88007 
+
+Statistics for the Run
+Date: 7 / 11 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 947.945 
+
+Statistics for the Run
+Date: 12 / 20 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 209.56375 
+
+Statistics for the Run
+Date: 7 / 13 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 224.31017 
+
+Statistics for the Run
+Date: 9 / 23 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 472.66223 
+
+Statistics for the Run
+Date: 12 / 24 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 520.526 
+
+Statistics for the Run
+Date: 6 / 30 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 725.88513 
+
+Statistics for the Run
+Date: 12 / 28 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 951.7096 
+
+Statistics for the Run
+Date: 11 / 13 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 44.032677 
+
+Statistics for the Run
+Date: 8 / 13 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 769.2397 
+
+Statistics for the Run
+Date: 11 / 4 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 817.7307 
+
+Statistics for the Run
+Date: 5 / 12 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 610.6461 
+
+Statistics for the Run
+Date: 8 / 5 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 384.01712 
+
+Statistics for the Run
+Date: 9 / 11 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 141.8671 
+
+Statistics for the Run
+Date: 9 / 13 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 293.4888 
+
+Statistics for the Run
+Date: 10 / 1 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 927.8028 
+
+Statistics for the Run
+Date: 5 / 16 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 811.8557 
+
+Statistics for the Run
+Date: 9 / 4 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 25.010937 
+
+Statistics for the Run
+Date: 3 / 22 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 643.53394 
+
+Statistics for the Run
+Date: 3 / 9 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 645.5596 
+
+Statistics for the Run
+Date: 12 / 16 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 932.2991 
+
+Statistics for the Run
+Date: 7 / 24 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 305.7409 
+
+Statistics for the Run
+Date: 3 / 11 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 993.99304 
+
+Statistics for the Run
+Date: 2 / 15 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 627.29614 
+
+Statistics for the Run
+Date: 9 / 6 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 172.37794 
+
+Statistics for the Run
+Date: 12 / 18 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 349.25757 
+
+Statistics for the Run
+Date: 6 / 29 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 202.04169 
+
+Statistics for the Run
+Date: 3 / 17 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 415.53336 
+
+Statistics for the Run
+Date: 5 / 19 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 8.094362 
+
+Statistics for the Run
+Date: 11 / 2 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 461.7206 
+
+Statistics for the Run
+Date: 2 / 16 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 867.4638 
+
+Statistics for the Run
+Date: 7 / 5 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 597.5866 
+
+Statistics for the Run
+Date: 9 / 25 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 532.2505 
+
+Statistics for the Run
+Date: 10 / 4 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 618.4837 
+
+Statistics for the Run
+Date: 10 / 26 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 48.840343 
+
+Statistics for the Run
+Date: 10 / 15 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 940.9057 
+
+Statistics for the Run
+Date: 4 / 14 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 425.6523 
+
+Statistics for the Run
+Date: 9 / 2 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 776.99744 
+
+Statistics for the Run
+Date: 3 / 10 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 112.49017 
+
+Statistics for the Run
+Date: 9 / 30 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 307.2456 
+
+Statistics for the Run
+Date: 12 / 18 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 532.8718 
+
+Statistics for the Run
+Date: 3 / 2 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 866.49243 
+
+Statistics for the Run
+Date: 12 / 19 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 374.08032 
+
+Statistics for the Run
+Date: 9 / 18 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 267.10513 
+
+Statistics for the Run
+Date: 11 / 9 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 714.0119 
+
+Statistics for the Run
+Date: 5 / 19 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 221.90729 
+
+Statistics for the Run
+Date: 11 / 8 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 396.53384 
+
+Statistics for the Run
+Date: 11 / 19 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 396.65594 
+
+Statistics for the Run
+Date: 9 / 4 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 630.38525 
+
+Statistics for the Run
+Date: 11 / 19 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 281.93585 
+
+Statistics for the Run
+Date: 2 / 20 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 111.27263 
+
+Statistics for the Run
+Date: 2 / 7 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 744.37317 
+
+Statistics for the Run
+Date: 10 / 3 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 401.12433 
+
+Statistics for the Run
+Date: 8 / 22 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 73.8039 
+
+Statistics for the Run
+Date: 1 / 21 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 897.99036 
+
+Statistics for the Run
+Date: 12 / 12 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 967.07886 
+
+Statistics for the Run
+Date: 6 / 8 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 290.2433 
+
+Statistics for the Run
+Date: 1 / 12 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 455.32858 
+
+Statistics for the Run
+Date: 4 / 16 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 551.07135 
+
+Statistics for the Run
+Date: 8 / 22 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 605.1902 
+
+Statistics for the Run
+Date: 1 / 29 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 138.99686 
+
+Statistics for the Run
+Date: 7 / 25 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 309.5402 
+
+Statistics for the Run
+Date: 2 / 18 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 835.8586 
+
+Statistics for the Run
+Date: 3 / 23 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 452.8331 
+
+Statistics for the Run
+Date: 1 / 12 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 549.16144 
+
+Statistics for the Run
+Date: 7 / 7 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 723.5591 
+
+Statistics for the Run
+Date: 6 / 11 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 637.6381 
+
+Statistics for the Run
+Date: 9 / 25 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 990.49554 
+
+Statistics for the Run
+Date: 7 / 23 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 452.86636 
+
+Statistics for the Run
+Date: 1 / 18 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 579.2008 
+
+Statistics for the Run
+Date: 11 / 4 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 574.20844 
+
+Statistics for the Run
+Date: 1 / 7 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 403.9096 
+
+Statistics for the Run
+Date: 6 / 25 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 852.3139 
+
+Statistics for the Run
+Date: 3 / 21 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 453.71808 
+
+Statistics for the Run
+Date: 6 / 27 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 523.86145 
+
+Statistics for the Run
+Date: 2 / 13 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 884.36615 
+
+Statistics for the Run
+Date: 5 / 16 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 271.0096 
+
+Statistics for the Run
+Date: 1 / 9 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 280.65466 
+
+Statistics for the Run
+Date: 5 / 12 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 773.60986 
+
+Statistics for the Run
+Date: 8 / 26 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 37.48696 
+
+Statistics for the Run
+Date: 1 / 21 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 849.33563 
+
+Statistics for the Run
+Date: 8 / 29 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 799.1392 
+
+Statistics for the Run
+Date: 2 / 25 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 643.5992 
+
+Statistics for the Run
+Date: 12 / 2 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 797.9729 
+
+Statistics for the Run
+Date: 2 / 22 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 881.24744 
+
+Statistics for the Run
+Date: 12 / 21 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 303.97888 
+
+Statistics for the Run
+Date: 6 / 24 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 507.08627 
+
+Statistics for the Run
+Date: 11 / 8 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 291.22754 
+
+Statistics for the Run
+Date: 1 / 1 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 14.032391 
+
+Statistics for the Run
+Date: 1 / 18 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 96.69882 
+
+Statistics for the Run
+Date: 4 / 13 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 23.906445 
+
+Statistics for the Run
+Date: 11 / 25 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 653.14264 
+
+Statistics for the Run
+Date: 2 / 16 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 906.7129 
+
+Statistics for the Run
+Date: 1 / 27 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 805.2054 
+
+Statistics for the Run
+Date: 2 / 6 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 805.47577 
+
+Statistics for the Run
+Date: 5 / 30 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 633.50366 
+
+Statistics for the Run
+Date: 3 / 22 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 877.1855 
+
+Statistics for the Run
+Date: 4 / 29 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 277.2155 
+
+Statistics for the Run
+Date: 11 / 28 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 743.2738 
+
+Statistics for the Run
+Date: 6 / 16 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 474.89847 
+
+Statistics for the Run
+Date: 10 / 6 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 38.193817 
+
+Statistics for the Run
+Date: 10 / 22 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 768.15625 
+
+Statistics for the Run
+Date: 5 / 4 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 993.5115 
+
+Statistics for the Run
+Date: 10 / 16 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 664.70105 
+
+Statistics for the Run
+Date: 3 / 21 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 151.06415 
+
+Statistics for the Run
+Date: 10 / 25 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 981.2315 
+
+Statistics for the Run
+Date: 2 / 10 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 870.262 
+
+Statistics for the Run
+Date: 1 / 30 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 640.95233 
+
+Statistics for the Run
+Date: 4 / 24 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 717.7269 
+
+Statistics for the Run
+Date: 7 / 23 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 476.50635 
+
+Statistics for the Run
+Date: 9 / 23 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 961.26636 
+
+Statistics for the Run
+Date: 7 / 7 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 168.90111 
+
+Statistics for the Run
+Date: 2 / 13 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 355.25507 
+
+Statistics for the Run
+Date: 12 / 24 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 302.69528 
+
+Statistics for the Run
+Date: 10 / 19 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 398.1628 
+
+Statistics for the Run
+Date: 3 / 5 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 190.57085 
+
+Statistics for the Run
+Date: 4 / 20 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 584.55383 
+
+Statistics for the Run
+Date: 12 / 29 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 457.63116 
+
+Statistics for the Run
+Date: 5 / 20 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 337.64877 
+
+Statistics for the Run
+Date: 10 / 23 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 228.88292 
+
+Statistics for the Run
+Date: 10 / 7 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 540.0373 
+
+Statistics for the Run
+Date: 2 / 7 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 408.5935 
+
+Statistics for the Run
+Date: 9 / 13 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 115.556274 
+
+Statistics for the Run
+Date: 4 / 27 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 189.57779 
+
+Statistics for the Run
+Date: 5 / 18 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 418.88107 
+
+Statistics for the Run
+Date: 9 / 25 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 703.56915 
+
+Statistics for the Run
+Date: 11 / 10 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 628.61993 
+
+Statistics for the Run
+Date: 4 / 27 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 106.36473 
+
+Statistics for the Run
+Date: 12 / 1 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 413.04294 
+
+Statistics for the Run
+Date: 10 / 24 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 266.2728 
+
+Statistics for the Run
+Date: 1 / 19 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 522.8662 
+
+Statistics for the Run
+Date: 8 / 24 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 598.7498 
+
+Statistics for the Run
+Date: 1 / 9 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 265.46524 
+
+Statistics for the Run
+Date: 11 / 18 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 572.4175 
+
+Statistics for the Run
+Date: 3 / 18 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 126.819435 
+
+Statistics for the Run
+Date: 5 / 26 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 922.77216 
+
+Statistics for the Run
+Date: 12 / 1 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 649.2608 
+
+Statistics for the Run
+Date: 7 / 20 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 328.0309 
+
+Statistics for the Run
+Date: 3 / 14 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 301.92178 
+
+Statistics for the Run
+Date: 4 / 29 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 348.38107 
+
+Statistics for the Run
+Date: 2 / 20 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 547.73773 
+
+Statistics for the Run
+Date: 11 / 20 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 72.237015 
+
+Statistics for the Run
+Date: 1 / 28 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 750.5983 
+
+Statistics for the Run
+Date: 6 / 21 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 276.76263 
+
+Statistics for the Run
+Date: 4 / 22 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 947.9324 
+
+Statistics for the Run
+Date: 9 / 18 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 198.02309 
+
+Statistics for the Run
+Date: 9 / 3 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 92.36706 
+
+Statistics for the Run
+Date: 11 / 7 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 781.03357 
+
+Statistics for the Run
+Date: 10 / 18 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 709.53326 
+
+Statistics for the Run
+Date: 11 / 23 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 403.7733 
+
+Statistics for the Run
+Date: 10 / 27 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 831.68115 
+
+Statistics for the Run
+Date: 2 / 19 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 909.4596 
+
+Statistics for the Run
+Date: 1 / 25 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 99.242226 
+
+Statistics for the Run
+Date: 3 / 13 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 350.51755 
+
+Statistics for the Run
+Date: 10 / 1 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 415.3972 
+
+Statistics for the Run
+Date: 2 / 10 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 311.9487 
+
+Statistics for the Run
+Date: 11 / 30 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 738.43066 
+
+Statistics for the Run
+Date: 10 / 25 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 849.8138 
+
+Statistics for the Run
+Date: 3 / 21 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 469.71008 
+
+Statistics for the Run
+Date: 4 / 6 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 6.200278 
+
+Statistics for the Run
+Date: 6 / 6 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 541.83563 
+
+Statistics for the Run
+Date: 9 / 2 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 631.31195 
+
+Statistics for the Run
+Date: 2 / 9 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 740.4547 
+
+Statistics for the Run
+Date: 1 / 13 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 850.0744 
+
+Statistics for the Run
+Date: 10 / 21 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 603.2671 
+
+Statistics for the Run
+Date: 1 / 20 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 380.69714 
+
+Statistics for the Run
+Date: 8 / 21 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 754.3834 
+
+Statistics for the Run
+Date: 10 / 12 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 956.8783 
+
+Statistics for the Run
+Date: 3 / 25 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 507.24402 
+
+Statistics for the Run
+Date: 6 / 6 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 365.13925 
+
+Statistics for the Run
+Date: 11 / 12 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 81.68271 
+
+Statistics for the Run
+Date: 3 / 24 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 39.18703 
+
+Statistics for the Run
+Date: 10 / 18 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 872.335 
+
+Statistics for the Run
+Date: 2 / 1 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 836.59247 
+
+Statistics for the Run
+Date: 4 / 13 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 561.11334 
+
+Statistics for the Run
+Date: 5 / 9 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 894.4189 
+
+Statistics for the Run
+Date: 9 / 10 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 84.16169 
+
+Statistics for the Run
+Date: 7 / 16 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 124.598595 
+
+Statistics for the Run
+Date: 9 / 14 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 921.6323 
+
+Statistics for the Run
+Date: 8 / 14 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 755.15356 
+
+Statistics for the Run
+Date: 12 / 21 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 864.7595 
+
+Statistics for the Run
+Date: 7 / 20 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 815.94904 
+
+Statistics for the Run
+Date: 3 / 23 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 215.35585 
+
+Statistics for the Run
+Date: 2 / 4 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 904.7299 
+
+Statistics for the Run
+Date: 2 / 26 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 53.85479 
+
+Statistics for the Run
+Date: 12 / 29 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 621.94415 
+
+Statistics for the Run
+Date: 8 / 10 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 206.96082 
+
+Statistics for the Run
+Date: 3 / 20 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 582.03064 
+
+Statistics for the Run
+Date: 6 / 22 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 130.88744 
+
+Statistics for the Run
+Date: 9 / 4 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 848.8032 
+
+Statistics for the Run
+Date: 2 / 15 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 980.0594 
+
+Statistics for the Run
+Date: 12 / 28 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 445.9809 
+
+Statistics for the Run
+Date: 2 / 9 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 141.0511 
+
+Statistics for the Run
+Date: 9 / 27 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 936.42505 
+
+Statistics for the Run
+Date: 5 / 22 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 206.34305 
+
+Statistics for the Run
+Date: 5 / 7 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 550.52997 
+
+Statistics for the Run
+Date: 1 / 5 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 383.46838 
+
+Statistics for the Run
+Date: 12 / 20 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 650.7217 
+
+Statistics for the Run
+Date: 1 / 9 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 903.3084 
+
+Statistics for the Run
+Date: 3 / 9 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 19.021149 
+
+Statistics for the Run
+Date: 1 / 23 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 153.73192 
+
+Statistics for the Run
+Date: 3 / 1 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 662.79126 
+
+Statistics for the Run
+Date: 1 / 7 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 353.45166 
+
+Statistics for the Run
+Date: 4 / 16 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 624.70917 
+
+Statistics for the Run
+Date: 6 / 26 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 252.76227 
+
+Statistics for the Run
+Date: 10 / 17 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 838.9503 
+
+Statistics for the Run
+Date: 12 / 18 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 161.33333 
+
+Statistics for the Run
+Date: 11 / 25 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 424.00555 
+
+Statistics for the Run
+Date: 9 / 12 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 961.5978 
+
+Statistics for the Run
+Date: 6 / 29 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 932.29987 
+
+Statistics for the Run
+Date: 11 / 18 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 976.8108 
+
+Statistics for the Run
+Date: 5 / 3 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 244.57549 
+
+Statistics for the Run
+Date: 8 / 4 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 947.8422 
+
+Statistics for the Run
+Date: 12 / 13 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 744.4962 
+
+Statistics for the Run
+Date: 5 / 22 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 146.26869 
+
+Statistics for the Run
+Date: 8 / 19 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 717.6674 
+
+Statistics for the Run
+Date: 6 / 29 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 482.5502 
+
+Statistics for the Run
+Date: 10 / 9 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 555.8658 
+
+Statistics for the Run
+Date: 7 / 26 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 638.5781 
+
+Statistics for the Run
+Date: 2 / 27 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 857.43774 
+
+Statistics for the Run
+Date: 2 / 30 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 407.44495 
+
+Statistics for the Run
+Date: 1 / 12 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 126.969215 
+
+Statistics for the Run
+Date: 4 / 1 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 609.4568 
+
+Statistics for the Run
+Date: 1 / 25 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 712.48676 
+
+Statistics for the Run
+Date: 9 / 29 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 625.8474 
+
+Statistics for the Run
+Date: 9 / 3 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 113.18784 
+
+Statistics for the Run
+Date: 8 / 4 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 896.6753 
+
+Statistics for the Run
+Date: 3 / 17 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 122.916855 
+
+Statistics for the Run
+Date: 12 / 12 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 521.1532 
+
+Statistics for the Run
+Date: 5 / 28 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 594.2912 
+
+Statistics for the Run
+Date: 7 / 13 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 280.2939 
+
+Statistics for the Run
+Date: 5 / 8 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 572.9854 
+
+Statistics for the Run
+Date: 4 / 11 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 9.295167 
+
+Statistics for the Run
+Date: 12 / 2 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 444.5366 
+
+Statistics for the Run
+Date: 2 / 3 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 18.696629 
+
+Statistics for the Run
+Date: 11 / 19 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 150.56422 
+
+Statistics for the Run
+Date: 5 / 11 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 916.0899 
+
+Statistics for the Run
+Date: 11 / 19 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 625.7174 
+
+Statistics for the Run
+Date: 8 / 11 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 631.4274 
+
+Statistics for the Run
+Date: 2 / 17 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 339.86084 
+
+Statistics for the Run
+Date: 1 / 10 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 108.54222 
+
+Statistics for the Run
+Date: 3 / 9 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 485.55405 
+
+Statistics for the Run
+Date: 1 / 9 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 676.252 
+
+Statistics for the Run
+Date: 12 / 4 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 670.88385 
+
+Statistics for the Run
+Date: 7 / 22 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 14.38774 
+
+Statistics for the Run
+Date: 2 / 3 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 361.63272 
+
+Statistics for the Run
+Date: 2 / 28 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 914.65076 
+
+Statistics for the Run
+Date: 6 / 11 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 760.1696 
+
+Statistics for the Run
+Date: 5 / 9 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 229.66562 
+
+Statistics for the Run
+Date: 8 / 10 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 195.56305 
+
+Statistics for the Run
+Date: 4 / 28 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 305.88013 
+
+Statistics for the Run
+Date: 8 / 10 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 462.4175 
+
+Statistics for the Run
+Date: 5 / 29 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 11.816035 
+
+Statistics for the Run
+Date: 11 / 6 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 941.77435 
+
+Statistics for the Run
+Date: 10 / 27 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 99.18199 
+
+Statistics for the Run
+Date: 3 / 12 / 16 
+Store ID: 2 
+Register Number: 5 
+Sale Amount: 828.95917 
+
+Statistics for the Run
+Date: 1 / 2 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 762.99524 
+
+Statistics for the Run
+Date: 4 / 29 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 276.46512 
+
+Statistics for the Run
+Date: 2 / 8 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 35.06105 
+
+Statistics for the Run
+Date: 5 / 18 / 16 
+Store ID: 2 
+Register Number: 1 
+Sale Amount: 143.7015 
+
+Statistics for the Run
+Date: 3 / 5 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 441.67487 
+
+Statistics for the Run
+Date: 1 / 21 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 97.50164 
+
+Statistics for the Run
+Date: 10 / 19 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 13.954438 
+
+Statistics for the Run
+Date: 8 / 27 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 618.3242 
+
+Statistics for the Run
+Date: 6 / 25 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 103.39364 
+
+Statistics for the Run
+Date: 11 / 18 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 728.08563 
+
+Statistics for the Run
+Date: 7 / 6 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 567.59235 
+
+Statistics for the Run
+Date: 8 / 24 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 445.02274 
+
+Statistics for the Run
+Date: 3 / 7 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 11.4990225 
+
+Statistics for the Run
+Date: 2 / 15 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 843.54694 
+
+Statistics for the Run
+Date: 12 / 20 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 825.4574 
+
+Statistics for the Run
+Date: 12 / 9 / 16 
+Store ID: 2 
+Register Number: 2 
+Sale Amount: 380.32028 
+
+Statistics for the Run
+Date: 11 / 21 / 16 
+Store ID: 2 
+Register Number: 4 
+Sale Amount: 2.1481955 
+
+Statistics for the Run
+Date: 8 / 10 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 225.81212 
+
+Statistics for the Run
+Date: 12 / 26 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 661.5678 
+
+Statistics for the Run
+Date: 5 / 7 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 843.9556 
+
+Statistics for the Run
+Date: 7 / 17 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 146.0611 
+
+Statistics for the Run
+Date: 12 / 8 / 16 
+Store ID: 2 
+Register Number: 6 
+Sale Amount: 184.29729 
+
+Statistics for the Run
+Date: 1 / 30 / 16 
+Store ID: 2 
+Register Number: 3 
+Sale Amount: 99.24237 
+
+Statistics for the Run
+Date: 3 / 23 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 330.7411 
+
+Statistics for the Run
+Date: 10 / 28 / 16 
+Store ID: 1 
+Register Number: 3 
+Sale Amount: 138.62828 
+
+Statistics for the Run
+Date: 1 / 18 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 350.75134 
+
+Statistics for the Run
+Date: 12 / 18 / 16 
+Store ID: 1 
+Register Number: 1 
+Sale Amount: 552.3158 
+
+Statistics for the Run
+Date: 12 / 11 / 16 
+Store ID: 1 
+Register Number: 2 
+Sale Amount: 316.94107 
+
+Statistics for the Run
+Date: 3 / 28 / 16 
+Store ID: 1 
+Register Number: 5 
+Sale Amount: 831.76355 
+
+Statistics for the Run
+Date: 10 / 6 / 16 
+Store ID: 1 
+Register Number: 6 
+Sale Amount: 473.42664 
+
+Statistics for the Run
+Date: 10 / 5 / 16 
+Store ID: 1 
+Register Number: 4 
+Sale Amount: 192.9421 
+Statistics for the Run
+
+Store 1 Total Sales: 259938.421875 
+
+Store 2 Total Sales: 237009.000000 
+Monthly Total Sales: 
+ January: 43038.730469 
+ February: 46499.433594 
+ March: 42498.769531 
+ April: 40052.335938 
+ May: 40010.156250 
+ June: 32483.808594 
+July: 29078.867188 
+ August: 34289.203125 
+ September: 48342.238281 
+ October: 40648.703125 
+ November: 46974.710938 
+ December: 53030.433594 
+Aggregate Sales: 496947.4 
+Total Simulation Time: 20807 Milliseconds

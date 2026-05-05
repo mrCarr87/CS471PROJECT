@@ -56,7 +56,7 @@ public class consumerStatistics {
         monthlyIncome[record.mM - 1] += record.saleAmount;
         System.out.printf("Current Store Income: %s\n", currentStoreIncome);
         System.out.printf("Current Monthly Income: %s\n", monthlyIncome[record.mM - 1]);
-        try(BufferedWriter bufferWriter = new BufferedWriter(new FileWriter(String.format("../Producer%dConsumer%dOutput.txt",producers, consumers),true))){
+        try(BufferedWriter bufferWriter = new BufferedWriter(new FileWriter(String.format("./Producer%dConsumer%dOutput.txt",producers, consumers),true))){
             bufferWriter.write("\nStatistics for the Run\n");
             bufferWriter.write(String.format("Date: %s \n",getDate()));
             bufferWriter.write(String.format("Store ID: %s \n", record.getStoreID()));

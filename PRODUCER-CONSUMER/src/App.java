@@ -101,7 +101,7 @@ public class App {
                 for(int i = 0; i < monthlyTotalSales.length; i++){
                     totalAggregateSum += monthlyTotalSales[i];
                 }
-                try(BufferedWriter bufferWriter = new BufferedWriter(new FileWriter(String.format("../Producer%dConsumer%dOutput.txt",producers,consumers),true))){
+                try(BufferedWriter bufferWriter = new BufferedWriter(new FileWriter(String.format("./Producer%dConsumer%dOutput.txt",producers,consumers),true))){
                     bufferWriter.write("Statistics for the Run\n");
                     for(int i = 0; i < stores.size(); i++){
                         bufferWriter.write(String.format("\nStore %s Total Sales: %f \n", i + 1, stores.get(i)));
