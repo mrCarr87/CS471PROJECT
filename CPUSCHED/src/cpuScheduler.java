@@ -10,13 +10,15 @@ import java.util.Scanner;
 
 import java.io.IOException;
 
-
+/**
+ * Class for CPU
+ */
 public class cpuScheduler {
     /**
-     * First-Come, First-Served (FCFS) Scheduling Algorithm
+     * First-In, First-Out (FIFO) Scheduling Algorithm
      * @param data
      */
-    public static void FCFS(ArrayList<int[]> data){
+    public static void FIFO(ArrayList<int[]> data){
         int counter = 0;
         int simulatedTime = 0;
         int numberOfProcesses = 0;
@@ -33,11 +35,12 @@ public class cpuScheduler {
                 arrivalTimes[counter] = data.get(counter)[0];
                 burstTimes[counter] = data.get(counter)[1];
                 waitingTimes[counter] = simulatedTime - arrivalTimes[counter];
-                turnaroundTimes[counter] = burstTimes[counter] + waitingTimes[counter];
+                simulatedTime += burstTimes[counter];
+                turnaroundTimes[counter] = simulatedTime - arrivalTimes[counter];
                 responseTimes[counter] = waitingTimes[counter] - arrivalTimes[counter];
                 printCurrentOutput(counter, simulatedTime, numberOfProcesses, currentProcess, waitingTimes, arrivalTimes,
                         burstTimes, turnaroundTimes, responseTimes);
-                simulatedTime += burstTimes[counter];
+                
                 numberOfProcesses += 1;
                 currentProcess = null;
                 counter += 1;
@@ -66,7 +69,18 @@ public class cpuScheduler {
         
     }
 
-
+    /**
+     * Prints current output for each process in the simulation
+     * @param counter
+     * @param simulatedTime
+     * @param numberOfProcesses
+     * @param currentProcess
+     * @param waitingTimes
+     * @param arrivalTimes
+     * @param burstTimes
+     * @param turnaroundTimes
+     * @param responseTimes
+     */
     private static void printCurrentOutput(int counter, int simulatedTime, int numberOfProcesses, int[] currentProcess,
             int[] waitingTimes, int[] arrivalTimes, int[] burstTimes, int[] turnaroundTimes, int[] responseTimes) {
         System.out.printf("Counter: %s\n",counter);
@@ -80,7 +94,15 @@ public class cpuScheduler {
         System.out.printf("Response Time: %s\n",responseTimes[counter]);
     }
 
-
+    /**
+     * Extracts and prints output for FCFS scheduling algorithm to a text file
+     * @param simulatedTime
+     * @param averageWaitingTime
+     * @param throughput
+     * @param cpuUtilization
+     * @param averageTurnaroundTime
+     * @param averageResponseTime
+     */
     private static void extractedAndPrintFCFSOutput(int simulatedTime, int averageWaitingTime, int throughput, double cpuUtilization,
             int averageTurnaroundTime, int averageResponseTime) {
         try(BufferedWriter bufferWriter = new BufferedWriter(new FileWriter("../CPUSCHED/FIFO_Output.txt"))){
@@ -98,17 +120,30 @@ public class cpuScheduler {
         }
     }
 
-
+    /**
+     * Calcuates average times
+     * @param numberOfProcesses
+     * @param waitingTimes
+     * @return
+     */
     private static int getAverageTime(int numberOfProcesses, int[] waitingTimes) {
         return (Arrays.stream(waitingTimes).sum())/numberOfProcesses;
     }
 
-
+    /**
+     * Gets throughput
+     * @param numberOfProcesses
+     * @param totalBurstTime
+     * @return
+     */
     private static int getThroughput(int numberOfProcesses, int totalBurstTime) {
         int throughput = totalBurstTime/numberOfProcesses;
         return throughput;
     }
-
+    /**
+     * Helps with swapping processes in the waiting queue for SJF scheduling algorithm
+     * @param waitingProcesses
+     */
     private static void SJF_Swap(ArrayList<int[]> waitingProcesses){
         for(int i = 0; i < waitingProcesses.size(); i++){
             for(int j = 0; j < waitingProcesses.size(); j++){
@@ -200,7 +235,15 @@ public class cpuScheduler {
 
     }
 
-
+    /**
+     * Extracts and prints output for SJF scheduling algorithm to a text file
+     * @param simulatedTime
+     * @param averageWaitingTime
+     * @param throughput
+     * @param cpuUtilization
+     * @param averageTurnaroundTime
+     * @param averageResponseTime
+     */
     private static void extractAndPrintSJFTextOutput(int simulatedTime, int averageWaitingTime, int throughput, double cpuUtilization,
             int averageTurnaroundTime, int averageResponseTime) {
         try(BufferedWriter bufferWriter = new BufferedWriter(new FileWriter("../CPUSCHED/SJF_Output.txt"))){
@@ -241,7 +284,7 @@ public class cpuScheduler {
         String schedulingSelection = schedulingInputs.nextLine();
         System.out.println(schedulingSelection);
         if(schedulingSelection.equals("FIFO")){
-            FCFS(processes);
+            FIFO(processes);
         }
         else if (schedulingSelection.equals("SJF")){
             SJF(processes);

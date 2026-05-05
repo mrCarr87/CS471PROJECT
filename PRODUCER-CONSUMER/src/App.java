@@ -1,16 +1,16 @@
 package src;
-import java.nio.Buffer;
-import java.sql.Time;
+
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Random;
 import java.time.*;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.concurrent.*;
 
 
+/**
+ * Main class to execute producer consumer program
+ */
 public class App {
     
     
@@ -101,7 +101,7 @@ public class App {
                 for(int i = 0; i < monthlyTotalSales.length; i++){
                     totalAggregateSum += monthlyTotalSales[i];
                 }
-                try(BufferedWriter bufferWriter = new BufferedWriter(new FileWriter(String.format("../Producer%dConsumer%dOutput.txt",producers,consumers)))){
+                try(BufferedWriter bufferWriter = new BufferedWriter(new FileWriter(String.format("../Producer%dConsumer%dOutput.txt",producers,consumers),true))){
                     bufferWriter.write("Statistics for the Run\n");
                     for(int i = 0; i < stores.size(); i++){
                         bufferWriter.write(String.format("\nStore %s Total Sales: %f \n", i + 1, stores.get(i)));
