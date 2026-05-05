@@ -38,8 +38,6 @@ public class cpuScheduler {
                 simulatedTime += burstTimes[counter];
                 turnaroundTimes[counter] = simulatedTime - arrivalTimes[counter];
                 responseTimes[counter] = waitingTimes[counter] - arrivalTimes[counter];
-                printCurrentOutput(counter, simulatedTime, numberOfProcesses, currentProcess, waitingTimes, arrivalTimes,
-                        burstTimes, turnaroundTimes, responseTimes);
                 
                 numberOfProcesses += 1;
                 currentProcess = null;
@@ -69,30 +67,6 @@ public class cpuScheduler {
         
     }
 
-    /**
-     * Prints current output for each process in the simulation
-     * @param counter
-     * @param simulatedTime
-     * @param numberOfProcesses
-     * @param currentProcess
-     * @param waitingTimes
-     * @param arrivalTimes
-     * @param burstTimes
-     * @param turnaroundTimes
-     * @param responseTimes
-     */
-    private static void printCurrentOutput(int counter, int simulatedTime, int numberOfProcesses, int[] currentProcess,
-            int[] waitingTimes, int[] arrivalTimes, int[] burstTimes, int[] turnaroundTimes, int[] responseTimes) {
-        System.out.printf("Counter: %s\n",counter);
-        System.out.printf("Simulated Time: %s\n",simulatedTime);
-        System.out.printf("Current Burst Time Sum: %s\n",Arrays.stream(burstTimes).sum());
-        System.out.printf("Number of Processes: %s \n",numberOfProcesses);
-        System.out.printf("Current Process: %s\n",currentProcess);
-        System.out.printf("Arrival Time: %s\n", arrivalTimes[counter]);
-        System.out.printf("Waiting Time: %s\n",waitingTimes[counter]);
-        System.out.printf("Turnaround Time: %s\n",turnaroundTimes[counter]);
-        System.out.printf("Response Time: %s\n",responseTimes[counter]);
-    }
 
     /**
      * Extracts and prints output for FCFS scheduling algorithm to a text file
@@ -202,7 +176,7 @@ public class cpuScheduler {
                 turnaroundTimes[counter] = simulatedTime - arrivalTimes[counter];
                 responseTimes[counter] = waitingTimes[counter] - arrivalTimes[counter];
                 
-                printCurrentOutput(counter, simulatedTime, numberOfProcesses, currentProcess, waitingTimes, arrivalTimes, burstTimes, turnaroundTimes, responseTimes);
+                
                 numberOfProcesses += 1;
                 counter++;
                 currentProcess = null;
