@@ -32,7 +32,7 @@ public class cpuScheduler {
                 currentProcess = data.get(counter);
                 arrivalTimes[counter] = data.get(counter)[0];
                 burstTimes[counter] = data.get(counter)[1];
-                waitingTimes[counter] = simulatedTime;
+                waitingTimes[counter] = simulatedTime - arrivalTimes[counter];
                 turnaroundTimes[counter] = burstTimes[counter] + waitingTimes[counter];
                 responseTimes[counter] = waitingTimes[counter] - arrivalTimes[counter];
                 printCurrentOutput(counter, simulatedTime, numberOfProcesses, currentProcess, waitingTimes, arrivalTimes,
@@ -140,47 +140,51 @@ public class cpuScheduler {
         int[] turnaroundTimes = new int[500];
         int[] responseTimes = new int[500];
         while(numberOfProcesses < 500 && counter != data.size()){
-            if(!(counter >= data.size() ) && ((simulatedTime == data.get(counter)[0])) && (currentProcess == null)){
+            if(numberOfProcesses == 500 || counter == data.size()){
+                break;
+            }
+            if(waitingProcesses.size() == 0){
                 currentProcess = data.get(counter);
-                
+                simulatedTime = currentProcess[0];
             }
-            else if(!(counter >= data.size()) && ((simulatedTime >= data.get(counter)[0])) && (currentProcess != null)){
+            if(data.get(counter)[0] <= simulatedTime){
                 waitingProcesses.add(data.get(counter));
+                counter += 1;
             }
-            
             else{
                 simulatedTime += 1;
+
             }
+
             if(currentProcess != null){
+                if(counter >= 500 || numberOfProcesses >= 500){
+                    break;
+                }
                 arrivalTimes[counter] = currentProcess[0];
-                waitingTimes[counter] = simulatedTime;
+                waitingTimes[counter] = simulatedTime - arrivalTimes[counter];
                 burstTimes[counter] = currentProcess[1];
-                turnaroundTimes[counter] = burstTimes[counter] + waitingTimes[counter];
-                responseTimes[counter] = waitingTimes[counter] - arrivalTimes[counter];
                 simulatedTime += burstTimes[counter];
+                turnaroundTimes[counter] = simulatedTime - arrivalTimes[counter];
+                responseTimes[counter] = waitingTimes[counter] - arrivalTimes[counter];
+                
                 printCurrentOutput(counter, simulatedTime, numberOfProcesses, currentProcess, waitingTimes, arrivalTimes, burstTimes, turnaroundTimes, responseTimes);
                 numberOfProcesses += 1;
                 counter++;
                 currentProcess = null;
                 
-                if(waitingProcesses.size() > 0){
-                    if(waitingProcesses.size() > 1){
-                        SJF_Swap(waitingProcesses);
-                        currentProcess = waitingProcesses.get(0);
-                        waitingProcesses.remove(0);
-                    }
-                    else{
-                        currentProcess = waitingProcesses.get(0);
-                        waitingProcesses.remove(0);
-                    }
+                
+                if(waitingProcesses.size() > 1){
+                    SJF_Swap(waitingProcesses);
+                    currentProcess = waitingProcesses.get(0);
+                    waitingProcesses.remove(0);
                 }
                 else{
-                    continue;
+                    currentProcess = waitingProcesses.get(0);
+                    waitingProcesses.remove(0);
                 }
+               
             }
-            if(numberOfProcesses == 500){
-                break;
-            }
+            
         }
         
         
