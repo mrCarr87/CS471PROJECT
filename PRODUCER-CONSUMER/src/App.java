@@ -77,12 +77,19 @@ public class App {
                         while(counter != 0){
                             
                             System.out.println(counter);
-                            consumerStatistics consumer = new consumerStatistics(buffer[out]);
+                            for(int i = 0; i < consumers; i++){
+                                if(counter == 0){
+                                    break;
+                                }
+                                consumerStatistics consumer = new consumerStatistics(buffer[out]);
                             
-                            consumer.updateOverallStatistics(stores, monthlyTotalSales,producers,consumers);
-                            out = (out + 1) % bufferSize;
-                            counter--;
-                            itemCount++;
+                                consumer.updateOverallStatistics(stores, monthlyTotalSales,producers,consumers);
+                                out = (out + 1) % bufferSize;
+                                counter--;
+                                itemCount++;
+
+                            }
+                            
                             
                         }     
 
@@ -104,7 +111,7 @@ public class App {
                     bufferWriter.write(String.format("July: %f \n August: %f \n September: %f \n October: %f \n November: %f \n December: %f \n", 
                     monthlyTotalSales[6],monthlyTotalSales[7], monthlyTotalSales[8], monthlyTotalSales[9], monthlyTotalSales[10],monthlyTotalSales[11]));
                     bufferWriter.write(String.format("Aggregate Sales: %s \n", totalAggregateSum));
-                    bufferWriter.write(String.format("Total Simulation Time: %s \n", duration));
+                    bufferWriter.write(String.format("Total Simulation Time: %s Milliseconds\n", duration));
                         
                 }
                 catch(IOException e){
