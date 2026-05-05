@@ -1,5 +1,5 @@
 package src;
-
+import java.text.DecimalFormat;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -50,6 +50,8 @@ public class consumerStatistics {
     public void updateOverallStatistics(ArrayList<Float> storeIncome, float[] monthlyIncome, int producers, int consumers){
         SalesRecord record = getSalesRecord();
         float currentStoreIncome = storeIncome.get(record.getStoreID() - 1) +record.saleAmount;
+        DecimalFormat df = new DecimalFormat("0.00");
+        currentStoreIncome = Float.parseFloat(df.format(currentStoreIncome));
         storeIncome.set(record.getStoreID() - 1, currentStoreIncome);
         monthlyIncome[record.mM - 1] += record.saleAmount;
         System.out.printf("Current Store Income: %s\n", currentStoreIncome);
