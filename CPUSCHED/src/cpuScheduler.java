@@ -28,7 +28,7 @@ public class cpuScheduler {
         int[] burstTimes = new int[500];
         int[] turnaroundTimes = new int[500];
         int[] responseTimes = new int[500];
-        System.out.printf("Data size: %s\n",data.size());
+        
         while(numberOfProcesses <= 500 && counter != data.size()){
             if(((simulatedTime >= data.get(counter)[0])) && (currentProcess == null)){
                 currentProcess = data.get(counter);
