@@ -6,9 +6,10 @@ In order to activate and execute this file, first change directories to the CPUS
 First In First Out (FIFO)
 ### Instructions
 In order to activate this command, when the prompt above appears, type 'FIFO' to choose this scheduler.  
-
+Output File:  FIFO_Output.txt
 
 ## SJF
 Shortest Job First (SJF)
 ### Instructions
 In order to activate this command, when the prompt above appears, type 'SJF' to choose this scheduler.  
+Output File:  SJF_Ouput.txt
